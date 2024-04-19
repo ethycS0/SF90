@@ -1,7 +1,7 @@
 {
   "manifest_version": 2,
   "name": "SF90",
-  "version": "1.0",
+  "version": "1.1",
   "description": "",
   
   
@@ -33,5 +33,5 @@
       "js": ["content.js"]
     }
   ]
-}
 
+}
