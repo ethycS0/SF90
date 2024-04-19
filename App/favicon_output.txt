@@ -1,0 +1,210 @@
+	Phishing Website Detector
+
+Please Input VALID file containing original websites: Please Input VALID file containing database websites: 
+
+1. URL Similarity Analysis
+2. Visual Similarity Analysis
+3. Favicon Similarity Analysis
+4. Exit
+
+Enter Choice: 
+ Starting Favicon Analysis
+Downloading database favicons
+Error fetching favicons for http://www.crsogi.com: HTTPConnectionPool(host='www.crsogi.com', port=80): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPConnection object at 0x76aad6d69a50>: Failed to resolve 'www.crsogi.com' ([Errno -2] Name or service not known)"))
+Error fetching favicons for http://www.crsgoviit.online: HTTPConnectionPool(host='www.crsgoviit.online', port=80): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPConnection object at 0x76aad6d49790>: Failed to resolve 'www.crsgoviit.online' ([Errno -2] Name or service not known)"))
+Error fetching favicons for http://www.sbiwebanking.com: HTTPConnectionPool(host='www.sbiwebanking.com', port=80): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPConnection object at 0x76aad6c5c790>: Failed to resolve 'www.sbiwebanking.com' ([Errno -2] Name or service not known)"))
+Error fetching favicons for http://www.shishgrillboca.com: 403 Client Error: Forbidden for url: https://www.shishgrillboca.com/
+Error fetching favicons for http://www.tecshila.in: 404 Client Error: Not Found for url: http://www.tecshila.in/
+Error fetching favicons for http://www.triveshsteel.in: 406 Client Error: Not Acceptable for url: http://www.triveshsteel.in/
+Error fetching favicons for http://www.crsorggovt.co.in: HTTPConnectionPool(host='www.crsorggovt.co.in', port=80): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPConnection object at 0x76aad6c3f650>: Failed to resolve 'www.crsorggovt.co.in' ([Errno -2] Name or service not known)"))
+Error fetching favicons for http://www.crsogovi.in: HTTPConnectionPool(host='www.crsogovi.in', port=80): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPConnection object at 0x76aad6d6a110>: Failed to resolve 'www.crsogovi.in' ([Errno -2] Name or service not known)"))
+Error fetching favicons for http://www.crsorggove.online: HTTPConnectionPool(host='www.crsorggove.online', port=80): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPConnection object at 0x76aad6c4dd90>: Failed to resolve 'www.crsorggove.online' ([Errno -2] Name or service not known)"))
+Error fetching favicons for http://www.banksbi.in: HTTPConnectionPool(host='www.banksbi.in', port=80): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPConnection object at 0x76aad6d44110>: Failed to resolve 'www.banksbi.in' ([Errno -2] Name or service not known)"))
+Error fetching favicons for http://www.crsorgigovin.tech: HTTPConnectionPool(host='www.crsorgigovin.tech', port=80): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPConnection object at 0x76aad6c05510>: Failed to resolve 'www.crsorgigovin.tech' ([Errno -2] Name or service not known)"))
+Error fetching favicons for http://www.crsorgigroup.website: HTTPConnectionPool(host='www.crsorgigroup.website', port=80): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPConnection object at 0x76aad6c07450>: Failed to resolve 'www.crsorgigroup.website' ([Errno -2] Name or service not known)"))
+Error fetching favicons for http://www.crsargi.co.in: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+Error fetching favicons for http://www.mahindrahappinestkalyan-2.co.in: 404 Client Error: Not Found for url: http://www.mahindrahappinestkalyan-2.co.in/
+Error fetching favicons for http://www.digitalindiagroup.in: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+Error fetching favicons for http://www.hdfcrewwaard.in: HTTPConnectionPool(host='www.hdfcrewwaard.in', port=80): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPConnection object at 0x76aad6c8b050>: Failed to resolve 'www.hdfcrewwaard.in' ([Errno -2] Name or service not known)"))
+Error fetching favicons for http://www.arcollactin.in: 409 Client Error: Conflict for url: http://www.arcollactin.in/
+Error fetching favicons for http://www.doctorsmedicalcenter.in: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+Error fetching favicons for http://www.doctorsnursinghome.in: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+Error fetching favicons for http://www.sbibanke.co.in: HTTPConnectionPool(host='www.sbibanke.co.in', port=80): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPConnection object at 0x76aad6a7b590>: Failed to resolve 'www.sbibanke.co.in' ([Errno -2] Name or service not known)"))
+Error fetching favicons for http://www.hrhdfcbank.in: HTTPConnectionPool(host='www.hrhdfcbank.in', port=80): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPConnection object at 0x76aad6ca86d0>: Failed to resolve 'www.hrhdfcbank.in' ([Errno -2] Name or service not known)"))
+Error fetching favicons for http://www.crsorgigovein.website: HTTPConnectionPool(host='www.crsorgigovein.website', port=80): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPConnection object at 0x76aad6bd31d0>: Failed to resolve 'www.crsorgigovein.website' ([Errno -2] Name or service not known)"))
+Error fetching favicons for http://www.isbiams.co.in: HTTPConnectionPool(host='www.isbiams.co.in', port=80): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPConnection object at 0x76aad6cc5b90>: Failed to resolve 'www.isbiams.co.in' ([Errno -2] Name or service not known)"))
+Error fetching favicons for http://www.hdfcbankldh.co.in: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+Error fetching favicons for http://www.hrhdfc.in: HTTPConnectionPool(host='www.hrhdfc.in', port=80): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPConnection object at 0x76aad6ca9590>: Failed to resolve 'www.hrhdfc.in' ([Errno -2] Name or service not known)"))
+Error fetching favicons for http://www.iciciredeem.online: HTTPConnectionPool(host='www.iciciredeem.online', port=80): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPConnection object at 0x76aad6cb7a50>: Failed to resolve 'www.iciciredeem.online' ([Errno -2] Name or service not known)"))
+Error fetching favicons for http://www.sbicard-cpp.in: 403 Client Error: Forbidden for url: http://www.sbicard-cpp.in/
+Error fetching favicons for http://www.hdfcinvestors.com: HTTPConnectionPool(host='www.hdfcinvestors.com', port=80): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPConnection object at 0x76aad6c4a4d0>: Failed to resolve 'www.hdfcinvestors.com' ([Errno -2] Name or service not known)"))
+Error fetching favicons for http://www.updsbi.co.in: HTTPConnectionPool(host='www.updsbi.co.in', port=80): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPConnection object at 0x76aad6aa6150>: Failed to resolve 'www.updsbi.co.in' ([Errno -2] Name or service not known)"))
+Error fetching favicons for http://www.hdfcrewwaards.in: HTTPConnectionPool(host='www.hdfcrewwaards.in', port=80): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPConnection object at 0x76aad6c99350>: Failed to resolve 'www.hdfcrewwaards.in' ([Errno -2] Name or service not known)"))
+Error fetching favicons for http://www.sbiuptary.co.in: HTTPConnectionPool(host='www.sbiuptary.co.in', port=80): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPConnection object at 0x76aad6a930d0>: Failed to resolve 'www.sbiuptary.co.in' ([Errno -2] Name or service not known)"))
+Error fetching favicons for http://www.sbihworei.co.in: HTTPConnectionPool(host='www.sbihworei.co.in', port=80): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPConnection object at 0x76aad6a8b190>: Failed to resolve 'www.sbihworei.co.in' ([Errno -2] Name or service not known)"))
+Error fetching favicons for http://www.sbibankyc.co.in: HTTPConnectionPool(host='www.sbibankyc.co.in', port=80): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPConnection object at 0x76aad6a813d0>: Failed to resolve 'www.sbibankyc.co.in' ([Errno -2] Name or service not known)"))
+Error fetching favicons for http://www.hdfcrewds.in: HTTPConnectionPool(host='www.hdfcrewds.in', port=80): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPConnection object at 0x76aad6c88f90>: Failed to resolve 'www.hdfcrewds.in' ([Errno -2] Name or service not known)"))
+Error fetching favicons for http://www.sbistatebank.com: HTTPConnectionPool(host='www.sbistatebank.com', port=80): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPConnection object at 0x76aad6a91150>: Failed to resolve 'www.sbistatebank.com' ([Errno -2] Name or service not known)"))
+Error fetching favicons for http://www.sbichairmansclub.com: HTTPConnectionPool(host='www.sbichairmansclub.com', port=80): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPConnection object at 0x76aad6a832d0>: Failed to resolve 'www.sbichairmansclub.com' ([Errno -2] Name or service not known)"))
+Error fetching favicons for http://www.debbrownauthor.com: 436 Client Error:  for url: http://www.debbrownauthor.com/
+Error fetching favicons for http://www.hdfcrewd.in: HTTPConnectionPool(host='www.hdfcrewd.in', port=80): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPConnection object at 0x76aad6c72e50>: Failed to resolve 'www.hdfcrewd.in' ([Errno -2] Name or service not known)"))
+Error fetching favicons for http://www.iciciredeemstore.in: HTTPConnectionPool(host='www.iciciredeemstore.in', port=80): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPConnection object at 0x76aad6cb99d0>: Failed to resolve 'www.iciciredeemstore.in' ([Errno -2] Name or service not known)"))
+Error fetching favicons for http://www.kayakvip.store: HTTPConnectionPool(host='www.kayakvip.store', port=80): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPConnection object at 0x76aad6a27ad0>: Failed to resolve 'www.kayakvip.store' ([Errno -2] Name or service not known)"))
+Error fetching favicons for http://www.sbihomeloanhlc.com: 500 Server Error: Internal Server Error for url: http://www.sbihomeloanhlc.com/
+Error fetching favicons for http://www.earningshub.info: 404 Client Error: Not Found for url: http://www.earningshub.info/
+Error fetching favicons for http://www.hdfcrewaad.in: HTTPConnectionPool(host='www.hdfcrewaad.in', port=80): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPConnection object at 0x76aad6c2ea50>: Failed to resolve 'www.hdfcrewaad.in' ([Errno -2] Name or service not known)"))
+Error fetching favicons for http://www.hdfcpoints.in: HTTPConnectionPool(host='www.hdfcpoints.in', port=80): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPConnection object at 0x76aad6c26790>: Failed to resolve 'www.hdfcpoints.in' ([Errno -2] Name or service not known)"))
+Error fetching favicons for http://www.hdfcpointss.in: HTTPConnectionPool(host='www.hdfcpointss.in', port=80): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPConnection object at 0x76aad6c2c990>: Failed to resolve 'www.hdfcpointss.in' ([Errno -2] Name or service not known)"))
+Error fetching favicons for http://www.virtual-receptionist-29843.bond: HTTPConnectionPool(host='www.virtual-receptionist-29843.bond', port=80): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPConnection object at 0x76aad6aae610>: Failed to resolve 'www.virtual-receptionist-29843.bond' ([Errno -2] Name or service not known)"))
+Error fetching favicons for http://www.hdfclifehr.in: HTTPConnectionPool(host='www.hdfclifehr.in', port=80): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPConnection object at 0x76aad60d6b50>: Failed to resolve 'www.hdfclifehr.in' ([Errno -2] Name or service not known)"))
+Error fetching favicons for http://www.jiosmm.in: 403 Client Error: Forbidden for url: http://Nondrop.in
+Error fetching favicons for http://www.icicicorporatebankings.com: 403 Client Error: Forbidden for url: https://www.icicibank.com/
+Error downloading favicon http://www.hdfcloan.online/static/features/%5BBBHOST%5D/theme-nb-hdfc/favicon.ico: 404 Client Error: Not Found for url: http://www.hdfcloan.online/static/features/%5BBBHOST%5D/theme-nb-hdfc/favicon.ico
+Error fetching favicons for http://www.hdfcrewardss.in: HTTPConnectionPool(host='www.hdfcrewardss.in', port=80): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPConnection object at 0x76aad6c70d90>: Failed to resolve 'www.hdfcrewardss.in' ([Errno -2] Name or service not known)"))
+Error downloading favicon https://www.static.wixstatic.com/media/ca02d5_8e5756c3c94d43ffa1d3919e3960319b%7Emv2.png/v1/fill/w_192%2Ch_192%2Clg_1%2Cusm_0.66_1.00_0.01/ca02d5_8e5756c3c94d43ffa1d3919e3960319b%7Emv2.png: HTTPSConnectionPool(host='www.static.wixstatic.com', port=443): Max retries exceeded with url: /media/ca02d5_8e5756c3c94d43ffa1d3919e3960319b~mv2.png/v1/fill/w_192%2Ch_192%2Clg_1%2Cusm_0.66_1.00_0.01/ca02d5_8e5756c3c94d43ffa1d3919e3960319b~mv2.png (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x76aad48bbcd0>: Failed to resolve 'www.static.wixstatic.com' ([Errno -2] Name or service not known)"))
+Error fetching favicons for http://www.icicicards.com: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+Error fetching favicons for http://www.gummivet.com: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+Error fetching favicons for http://www.hdfcjob.co.in: HTTPConnectionPool(host='www.hdfcjob.co.in', port=80): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPConnection object at 0x76aad6c49750>: Failed to resolve 'www.hdfcjob.co.in' ([Errno -2] Name or service not known)"))
+Error fetching favicons for http://www.steelempire.in: 406 Client Error: Not Acceptable for url: http://www.steelempire.in/
+Error downloading favicon http://www.img1.wsimg.com/isteam/ip/2a3c1216-7f69-44f7-a785-61172bc0ed71/favicon/c06a1ce6-ee49-4999-b5dc-4c8d63ad31a4.jpg/:/rs=w:16,h:16,m: HTTPConnectionPool(host='www.img1.wsimg.com', port=80): Max retries exceeded with url: /isteam/ip/2a3c1216-7f69-44f7-a785-61172bc0ed71/favicon/c06a1ce6-ee49-4999-b5dc-4c8d63ad31a4.jpg/:/rs=w:16,h:16,m (Caused by NameResolutionError("<urllib3.connection.HTTPConnection object at 0x76aad5e3f2d0>: Failed to resolve 'www.img1.wsimg.com' ([Errno -2] Name or service not known)"))
+Error fetching favicons for http://www.rrbalp.in: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+Error fetching favicons for http://www.crsorgisgovt.com: HTTPConnectionPool(host='www.crsorgisgovt.com', port=80): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPConnection object at 0x76aad6c15590>: Failed to resolve 'www.crsorgisgovt.com' ([Errno -2] Name or service not known)"))
+Error fetching favicons for http://www.kayipark.info: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+Error fetching favicons for http://www.crsoriggov.online: HTTPConnectionPool(host='www.crsoriggov.online', port=80): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPConnection object at 0x76aad6c17850>: Failed to resolve 'www.crsoriggov.online' ([Errno -2] Name or service not known)"))
+Error fetching favicons for http://www.crsorgi-gov-in.5g.in: HTTPConnectionPool(host='www.crsorgi-gov-in.5g.in', port=80): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPConnection object at 0x76aad6c3e790>: Failed to resolve 'www.crsorgi-gov-in.5g.in' ([Errno -2] Name or service not known)"))
+Error fetching favicons for http://www.waap.in: HTTPConnectionPool(host='www.waap.in', port=80): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPConnection object at 0x76aad6adc250>: Failed to resolve 'www.waap.in' ([Errno -3] Temporary failure in name resolution)"))
+Error fetching favicons for http://www.officeipaspeedautologistic.company: HTTPConnectionPool(host='www.officeipaspeedautologistic.company', port=80): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPConnection object at 0x76aad6a49790>: Failed to resolve 'www.officeipaspeedautologistic.company' ([Errno -2] Name or service not known)"))
+Error fetching favicons for http://www.onlineicici.in: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+Error downloading favicon https://www.static.wixstatic.com/media/ca02d5_8e5756c3c94d43ffa1d3919e3960319b%7Emv2.png/v1/fill/w_32%2Ch_32%2Clg_1%2Cusm_0.66_1.00_0.01/ca02d5_8e5756c3c94d43ffa1d3919e3960319b%7Emv2.png: HTTPSConnectionPool(host='www.static.wixstatic.com', port=443): Max retries exceeded with url: /media/ca02d5_8e5756c3c94d43ffa1d3919e3960319b~mv2.png/v1/fill/w_32%2Ch_32%2Clg_1%2Cusm_0.66_1.00_0.01/ca02d5_8e5756c3c94d43ffa1d3919e3960319b~mv2.png (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x76aad48c7350>: Failed to resolve 'www.static.wixstatic.com' ([Errno -2] Name or service not known)"))
+Error fetching favicons for http://www.photogenicstudio.in: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+Error fetching favicons for http://www.crsosgigov.online: HTTPConnectionPool(host='www.crsosgigov.online', port=80): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPConnection object at 0x76aad6c7d790>: Failed to resolve 'www.crsosgigov.online' ([Errno -2] Name or service not known)"))
+Error fetching favicons for http://www.rohili.mgmd.in: HTTPSConnectionPool(host='www.rohili.mgmd.in', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.rohili.mgmd.in'. (_ssl.c:1006)")))
+Error fetching favicons for http://www.dlzths.com: 403 Client Error: Forbidden for url: http://www.dlzths.com/
+Error fetching favicons for http://www.rohilakachhar.mgmd.in: HTTPSConnectionPool(host='www.rohilakachhar.mgmd.in', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.rohilakachhar.mgmd.in'. (_ssl.c:1006)")))
+Error fetching favicons for http://www.netinfosbi.co.in: HTTPConnectionPool(host='www.netinfosbi.co.in', port=80): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPConnection object at 0x76aad6a337d0>: Failed to resolve 'www.netinfosbi.co.in' ([Errno -2] Name or service not known)"))
+Error downloading favicon http://www.img1.wsimg.com/isteam/ip/2a3c1216-7f69-44f7-a785-61172bc0ed71/favicon/c06a1ce6-ee49-4999-b5dc-4c8d63ad31a4.jpg/:/rs=w:24,h:24,m: HTTPConnectionPool(host='www.img1.wsimg.com', port=80): Max retries exceeded with url: /isteam/ip/2a3c1216-7f69-44f7-a785-61172bc0ed71/favicon/c06a1ce6-ee49-4999-b5dc-4c8d63ad31a4.jpg/:/rs=w:24,h:24,m (Caused by NameResolutionError("<urllib3.connection.HTTPConnection object at 0x76aad6c5ff50>: Failed to resolve 'www.img1.wsimg.com' ([Errno -2] Name or service not known)"))
+Error fetching favicons for http://www.parcels-id.tech: HTTPConnectionPool(host='www.parcels-id.tech', port=80): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPConnection object at 0x76aad6a5d690>: Failed to resolve 'www.parcels-id.tech' ([Errno -2] Name or service not known)"))
+Error fetching favicons for http://www.onuipark.com: HTTPConnectionPool(host='www.onuipark.com', port=80): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPConnection object at 0x76aad6a57690>: Failed to resolve 'www.onuipark.com' ([Errno -2] Name or service not known)"))
+Error downloading favicon http://www.img1.wsimg.com/isteam/ip/2a3c1216-7f69-44f7-a785-61172bc0ed71/favicon/c06a1ce6-ee49-4999-b5dc-4c8d63ad31a4.jpg/:/rs=w:32,h:32,m: HTTPConnectionPool(host='www.img1.wsimg.com', port=80): Max retries exceeded with url: /isteam/ip/2a3c1216-7f69-44f7-a785-61172bc0ed71/favicon/c06a1ce6-ee49-4999-b5dc-4c8d63ad31a4.jpg/:/rs=w:32,h:32,m (Caused by NameResolutionError("<urllib3.connection.HTTPConnection object at 0x76aad60d40d0>: Failed to resolve 'www.img1.wsimg.com' ([Errno -2] Name or service not known)"))
+Error fetching favicons for http://www.beinfratech.in: 406 Client Error: Not Acceptable for url: http://www.beinfratech.in/
+Error downloading favicon http://www.img1.wsimg.com/isteam/ip/2a3c1216-7f69-44f7-a785-61172bc0ed71/favicon/c06a1ce6-ee49-4999-b5dc-4c8d63ad31a4.jpg/:/rs=w:48,h:48,m: HTTPConnectionPool(host='www.img1.wsimg.com', port=80): Max retries exceeded with url: /isteam/ip/2a3c1216-7f69-44f7-a785-61172bc0ed71/favicon/c06a1ce6-ee49-4999-b5dc-4c8d63ad31a4.jpg/:/rs=w:48,h:48,m (Caused by NameResolutionError("<urllib3.connection.HTTPConnection object at 0x76aad6c14810>: Failed to resolve 'www.img1.wsimg.com' ([Errno -2] Name or service not known)"))
+Error fetching favicons for http://www.onlinesbib.com: HTTPConnectionPool(host='www.onlinesbib.com', port=80): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPConnection object at 0x76aad6a556d0>: Failed to resolve 'www.onlinesbib.com' ([Errno -2] Name or service not known)"))
+Error downloading favicon https://www.app.vzy.co/assets/icons/favicon.svg: HTTPSConnectionPool(host='www.app.vzy.co', port=443): Max retries exceeded with url: /assets/icons/favicon.svg (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x76aad6aaf310>: Failed to resolve 'www.app.vzy.co' ([Errno -2] Name or service not known)"))
+Error downloading favicon https://www.image1.jdomni.in/defaultogimages/v2/M/F/MF.png: HTTPSConnectionPool(host='www.image1.jdomni.in', port=443): Max retries exceeded with url: /defaultogimages/v2/M/F/MF.png (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x76aad6810310>: Failed to resolve 'www.image1.jdomni.in' ([Errno -2] Name or service not known)"))
+Error downloading favicon http://www.img1.wsimg.com/isteam/ip/2a3c1216-7f69-44f7-a785-61172bc0ed71/favicon/c06a1ce6-ee49-4999-b5dc-4c8d63ad31a4.jpg/:/rs=w:64,h:64,m: HTTPConnectionPool(host='www.img1.wsimg.com', port=80): Max retries exceeded with url: /isteam/ip/2a3c1216-7f69-44f7-a785-61172bc0ed71/favicon/c06a1ce6-ee49-4999-b5dc-4c8d63ad31a4.jpg/:/rs=w:64,h:64,m (Caused by NameResolutionError("<urllib3.connection.HTTPConnection object at 0x76aad6831a90>: Failed to resolve 'www.img1.wsimg.com' ([Errno -2] Name or service not known)"))
+Error fetching favicons for http://www.databyte.in: 522 Server Error:  for url: https://www.databyte.in/
+Error fetching favicons for http://www.divineskyedu.in: 522 Server Error:  for url: https://www.divineskyedu.in/
+Error fetching favicons for http://www.digital-finance.in: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+Error fetching favicons for http://www.h26da513r.shop: HTTPConnectionPool(host='www.h26da513r.shop', port=80): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x76aad6c12250>, 'Connection to www.h26da513r.shop timed out. (connect timeout=None)'))
+Error fetching favicons for http://www.uidai.gov.in: HTTPConnectionPool(host='www.uidai.gov.in', port=80): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x76aad4ab0410>, 'Connection to www.uidai.gov.in timed out. (connect timeout=None)'))
+
+
+
+Testing Favicons for www.hdfc.com x www.ceatpl.in
+Similarity:  36
+Testing Favicons for www.hdfc.com x www.mywindowodisha.in
+Similarity:  39
+Testing Favicons for www.hdfc.com x www.imakeit.in
+Similarity:  43
+Testing Favicons for www.hdfc.com x www.a2zprivatetheatre.in
+Similarity:  21
+Testing Favicons for www.hdfc.com x www.bs2shop2.in
+Similarity:  25
+Testing Favicons for www.hdfc.com x www.greattajir.shop
+Similarity:  25
+Testing Favicons for www.hdfc.com x www.crsorgi-gov.live
+Similarity:  24
+Testing Favicons for www.hdfc.com x www.bs2shop.in
+Similarity:  25
+Testing Favicons for www.hdfc.com x www.bapujifoods.in
+Similarity:  16
+Testing Favicons for www.hdfc.com x www.rajadhanicabs.in
+Similarity:  40
+Testing Favicons for www.icicibank.com x www.ceatpl.in
+Similarity:  40
+Testing Favicons for www.icicibank.com x www.mywindowodisha.in
+Similarity:  51
+Testing Favicons for www.icicibank.com x www.imakeit.in
+Similarity:  45
+Testing Favicons for www.icicibank.com x www.a2zprivatetheatre.in
+Similarity:  13
+Testing Favicons for www.icicibank.com x www.bs2shop2.in
+Similarity:  21
+Testing Favicons for www.icicibank.com x www.greattajir.shop
+Similarity:  21
+Testing Favicons for www.icicibank.com x www.crsorgi-gov.live
+Similarity:  22
+Testing Favicons for www.icicibank.com x www.bs2shop.in
+Similarity:  21
+Testing Favicons for www.icicibank.com x www.bapujifoods.in
+Similarity:  8
+Testing Favicons for www.icicibank.com x www.rajadhanicabs.in
+Similarity:  36
+Testing Favicons for www.hdfclife.com x www.ceatpl.in
+Similarity:  33
+Testing Favicons for www.hdfclife.com x www.mywindowodisha.in
+Similarity:  24
+Testing Favicons for www.hdfclife.com x www.imakeit.in
+Similarity:  26
+Testing Favicons for www.hdfclife.com x www.a2zprivatetheatre.in
+Similarity:  50
+Testing Favicons for www.hdfclife.com x www.bs2shop2.in
+Similarity:  54
+Testing Favicons for www.hdfclife.com x www.greattajir.shop
+Similarity:  54
+Testing Favicons for www.hdfclife.com x www.crsorgi-gov.live
+Similarity:  33
+Testing Favicons for www.hdfclife.com x www.bs2shop.in
+Similarity:  54
+Testing Favicons for www.hdfclife.com x www.bapujifoods.in
+Similarity:  47
+Testing Favicons for www.hdfclife.com x www.rajadhanicabs.in
+Similarity:  33
+Testing Favicons for www.hdfcbank.com x www.ceatpl.in
+Similarity:  36
+Testing Favicons for www.hdfcbank.com x www.mywindowodisha.in
+Similarity:  39
+Testing Favicons for www.hdfcbank.com x www.imakeit.in
+Similarity:  43
+Testing Favicons for www.hdfcbank.com x www.a2zprivatetheatre.in
+Similarity:  21
+Testing Favicons for www.hdfcbank.com x www.bs2shop2.in
+Similarity:  25
+Testing Favicons for www.hdfcbank.com x www.greattajir.shop
+Similarity:  25
+Testing Favicons for www.hdfcbank.com x www.crsorgi-gov.live
+Similarity:  24
+Testing Favicons for www.hdfcbank.com x www.bs2shop.in
+Similarity:  25
+Testing Favicons for www.hdfcbank.com x www.bapujifoods.in
+Similarity:  16
+Testing Favicons for www.hdfcbank.com x www.rajadhanicabs.in
+Similarity:  40
+Testing Favicons for www.crsorgi.gov.in x www.ceatpl.in
+Similarity:  40
+Testing Favicons for www.crsorgi.gov.in x www.mywindowodisha.in
+Similarity:  41
+Testing Favicons for www.crsorgi.gov.in x www.imakeit.in
+Similarity:  37
+Testing Favicons for www.crsorgi.gov.in x www.a2zprivatetheatre.in
+Similarity:  23
+Testing Favicons for www.crsorgi.gov.in x www.bs2shop2.in
+Similarity:  23
+Testing Favicons for www.crsorgi.gov.in x www.greattajir.shop
+Similarity:  29
+Testing Favicons for www.crsorgi.gov.in x www.crsorgi-gov.live
+Similarity:  0
+Testing Favicons for www.crsorgi.gov.in x www.bs2shop.in
+Similarity:  23
+Testing Favicons for www.crsorgi.gov.in x www.bapujifoods.in
+Similarity:  18
+Testing Favicons for www.crsorgi.gov.in x www.rajadhanicabs.in
+Similarity:  42
+
+
+1. URL Similarity Analysis
+2. Visual Similarity Analysis
+3. Favicon Similarity Analysis
+4. Exit
+
+Enter Choice: 

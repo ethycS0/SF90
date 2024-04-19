@@ -1,0 +1,2443 @@
+	Phishing Website Detector
+
+Please Input VALID file containing original websites: Please Input VALID file containing database websites: 
+
+1. URL Similarity Analysis
+2. Visual Similarity Analysis
+3. Favicon Similarity Analysis
+4. Exit
+
+Enter Choice: 
+ Starting URL Analysis
+
+
+	CHECKING URL SIMILARITY FOR hdfcbank.com
+
+Comparing:  hdfcbank.com and akhileshjha.co.in
+Domain Name Similarity:  15 %
+
+Comparing:  hdfcbank.com and banksbi.in
+Domain Name Similarity:  12 %
+
+Comparing:  hdfcbank.com and bapujifoods.in
+Domain Name Similarity:  0 %
+
+Comparing:  hdfcbank.com and crsgoviit.online
+Domain Name Similarity:  0 %
+
+Comparing:  hdfcbank.com and crsogi.com
+Domain Name Similarity:  0 %
+
+Comparing:  hdfcbank.com and crsogovi.in
+Domain Name Similarity:  0 %
+
+Comparing:  hdfcbank.com and crsorggove.online
+Domain Name Similarity:  0 %
+
+Comparing:  hdfcbank.com and crsorggovt.co.in
+Domain Name Similarity:  0 %
+
+Comparing:  hdfcbank.com and crsorgi-gov-in.5g.in
+Domain Name Similarity:  6 %
+
+Comparing:  hdfcbank.com and crsorgi-gov.live
+Domain Name Similarity:  0 %
+
+Comparing:  hdfcbank.com and crsorgigovein.website
+Domain Name Similarity:  0 %
+
+Comparing:  hdfcbank.com and crsorgigovin.tech
+Domain Name Similarity:  0 %
+
+Comparing:  hdfcbank.com and crsorgigroup.website
+Domain Name Similarity:  0 %
+
+Comparing:  hdfcbank.com and crsorgisgovt.com
+Domain Name Similarity:  0 %
+
+Comparing:  hdfcbank.com and crsoriggov.online
+Domain Name Similarity:  0 %
+
+Comparing:  hdfcbank.com and crsosgigov.online
+Domain Name Similarity:  0 %
+
+Comparing:  hdfcbank.com and debbrownauthor.com
+Domain Name Similarity:  14 %
+
+Comparing:  hdfcbank.com and digital-finance.in
+Domain Name Similarity:  19 %
+
+Comparing:  hdfcbank.com and dlzths.com
+Domain Name Similarity:  12 %
+
+Comparing:  hdfcbank.com and earningshub.info
+Domain Name Similarity:  0 %
+
+Comparing:  hdfcbank.com and gmcnandyalaap-govt.in
+Domain Name Similarity:  11 %
+
+Comparing:  hdfcbank.com and greattajir.shop
+Domain Name Similarity:  9 %
+
+Comparing:  hdfcbank.com and gummivet.com
+Domain Name Similarity:  0 %
+
+Comparing:  hdfcbank.com and h26da513r.shop
+Domain Name Similarity:  11 %
+
+Comparing:  hdfcbank.com and hdfcinvestors.com
+Domain Name Similarity:  30 %
+
+Comparing:  hdfcbank.com and hdfcjob.co.in
+Domain Name Similarity:  44 %
+
+Comparing:  hdfcbank.com and hdfcloan.online
+Domain Name Similarity:  62 %
+
+Comparing:  hdfcbank.com and hdfcpoints.in
+Domain Name Similarity:  50 %
+
+Comparing:  hdfcbank.com and hdfcpointss.in
+Domain Name Similarity:  45 %
+
+Comparing:  hdfcbank.com and hdfcrewaad.in
+Domain Name Similarity:  50 %
+
+Comparing:  hdfcbank.com and hdfcrewardss.in
+Domain Name Similarity:  41 %
+
+Comparing:  hdfcbank.com and hdfcrewd.in
+Domain Name Similarity:  50 %
+
+Comparing:  hdfcbank.com and hdfcrewds.in
+Domain Name Similarity:  44 %
+
+Comparing:  hdfcbank.com and hdfcrewwaard.in
+Domain Name Similarity:  41 %
+
+Comparing:  hdfcbank.com and hdfcrewwaards.in
+Domain Name Similarity:  38 %
+
+Comparing:  hdfcbank.com and hrhdfc.in
+Domain Name Similarity:  25 %
+
+Comparing:  hdfcbank.com and hrhdfcbank.in
+Domain Name Similarity:  80 %
+
+Comparing:  hdfcbank.com and icicicards.com
+Domain Name Similarity:  19 %
+
+Comparing:  hdfcbank.com and icicicorporatebankings.com
+Domain Name Similarity:  22 %
+
+Comparing:  hdfcbank.com and iciciredeem.online
+Domain Name Similarity:  9 %
+
+Comparing:  hdfcbank.com and iciciredeemstore.in
+Domain Name Similarity:  6 %
+
+Comparing:  hdfcbank.com and indosbibk.in
+Domain Name Similarity:  33 %
+
+Comparing:  hdfcbank.com and isbiams.co.in
+Domain Name Similarity:  0 %
+
+Comparing:  hdfcbank.com and jiosmm.in
+Domain Name Similarity:  0 %
+
+Comparing:  hdfcbank.com and kalyanlaxmi.in
+Domain Name Similarity:  9 %
+
+Comparing:  hdfcbank.com and kayakvip.store
+Domain Name Similarity:  0 %
+
+Comparing:  hdfcbank.com and kayipark.info
+Domain Name Similarity:  25 %
+
+Comparing:  hdfcbank.com and mahindrahappinestkalyan-2.co.in
+Domain Name Similarity:  18 %
+
+Comparing:  hdfcbank.com and mithilafurniture.in
+Domain Name Similarity:  12 %
+
+Comparing:  hdfcbank.com and netinfosbi.co.in
+Domain Name Similarity:  16 %
+
+Comparing:  hdfcbank.com and officeipaspeedautologistic.company
+Domain Name Similarity:  11 %
+
+Comparing:  hdfcbank.com and onlineicici.in
+Domain Name Similarity:  0 %
+
+Comparing:  hdfcbank.com and onlinesbib.com
+Domain Name Similarity:  0 %
+
+Comparing:  hdfcbank.com and onuipark.com
+Domain Name Similarity:  25 %
+
+Comparing:  hdfcbank.com and parcels-id.tech
+Domain Name Similarity:  9 %
+
+Comparing:  hdfcbank.com and pawnbirdtoss.com
+Domain Name Similarity:  8 %
+
+Comparing:  hdfcbank.com and photogenicstudio.in
+Domain Name Similarity:  12 %
+
+Comparing:  hdfcbank.com and rajadhanicabs.in
+Domain Name Similarity:  15 %
+
+Comparing:  hdfcbank.com and rohilakachhar.mgmd.in
+Domain Name Similarity:  17 %
+
+Comparing:  hdfcbank.com and rohili.mgmd.in
+Domain Name Similarity:  9 %
+
+Comparing:  hdfcbank.com and rrbalp.in
+Domain Name Similarity:  25 %
+
+Comparing:  hdfcbank.com and sbibanke.co.in
+Domain Name Similarity:  30 %
+
+Comparing:  hdfcbank.com and sbibankyc.co.in
+Domain Name Similarity:  27 %
+
+Comparing:  hdfcbank.com and sbichairmansclub.com
+Domain Name Similarity:  18 %
+
+Comparing:  hdfcbank.com and sbihomeloanhlc.com
+Domain Name Similarity:  21 %
+
+Comparing:  hdfcbank.com and sbihworei.co.in
+Domain Name Similarity:  9 %
+
+Comparing:  hdfcbank.com and sbistatebank.com
+Domain Name Similarity:  33 %
+
+Comparing:  hdfcbank.com and sbiuptary.co.in
+Domain Name Similarity:  9 %
+
+Comparing:  hdfcbank.com and sbiwebanking.com
+Domain Name Similarity:  33 %
+
+Comparing:  hdfcbank.com and shishgrillboca.com
+Domain Name Similarity:  14 %
+
+Comparing:  hdfcbank.com and steelempire.in
+Domain Name Similarity:  0 %
+
+Comparing:  hdfcbank.com and tecshila.in
+Domain Name Similarity:  0 %
+
+Comparing:  hdfcbank.com and triveshsteel.in
+Domain Name Similarity:  0 %
+
+Comparing:  hdfcbank.com and updsbi.co.in
+Domain Name Similarity:  12 %
+
+Comparing:  hdfcbank.com and vipackdistribuidora.com
+Domain Name Similarity:  10 %
+
+Comparing:  hdfcbank.com and virtual-receptionist-29843.bond
+Domain Name Similarity:  7 %
+
+Comparing:  hdfcbank.com and crsargi.co.in
+Domain Name Similarity:  0 %
+
+Comparing:  hdfcbank.com and sbicard-cpp.in
+Domain Name Similarity:  9 %
+
+Comparing:  hdfcbank.com and ceatpl.in
+Domain Name Similarity:  12 %
+
+Comparing:  hdfcbank.com and instanthomecare.in
+Domain Name Similarity:  13 %
+
+Comparing:  hdfcbank.com and ceatpl.in
+Domain Name Similarity:  12 %
+
+Comparing:  hdfcbank.com and tasteofcoffee.in
+Domain Name Similarity:  15 %
+
+Comparing:  hdfcbank.com and arcollactin.in
+Domain Name Similarity:  9 %
+
+Comparing:  hdfcbank.com and waap.in
+Domain Name Similarity:  12 %
+
+Comparing:  hdfcbank.com and matchmyvibe.in
+Domain Name Similarity:  9 %
+
+Comparing:  hdfcbank.com and beinfratech.in
+Domain Name Similarity:  9 %
+
+Comparing:  hdfcbank.com and digitalindiagroup.in
+Domain Name Similarity:  11 %
+
+Comparing:  hdfcbank.com and doctorsnursinghome.in
+Domain Name Similarity:  11 %
+
+Comparing:  hdfcbank.com and doctorsmedicalcenter.in
+Domain Name Similarity:  15 %
+
+Comparing:  hdfcbank.com and databyte.in
+Domain Name Similarity:  12 %
+
+Comparing:  hdfcbank.com and imakeit.in
+Domain Name Similarity:  0 %
+
+Comparing:  hdfcbank.com and mywindowodisha.in
+Domain Name Similarity:  7 %
+
+Comparing:  hdfcbank.com and a2zprivatetheatre.in
+Domain Name Similarity:  5 %
+
+Comparing:  hdfcbank.com and bs2shop.in
+Domain Name Similarity:  0 %
+
+Comparing:  hdfcbank.com and beautypixcel.in
+Domain Name Similarity:  0 %
+
+Comparing:  hdfcbank.com and bs2shop2.in
+Domain Name Similarity:  0 %
+
+Comparing:  hdfcbank.com and hdfcbankldh.co.in
+Domain Name Similarity:  61 %
+
+Comparing:  hdfcbank.com and hdfclifehr.in
+Domain Name Similarity:  40 %
+
+Comparing:  hdfcbank.com and digital-lovedeep.in
+Domain Name Similarity:  6 %
+
+Comparing:  hdfcbank.com and divineskyedu.in
+Domain Name Similarity:  8 %
+
+
+	CHECKING URL SIMILARITY FOR icicibank.com
+
+Comparing:  icicibank.com and akhileshjha.co.in
+Domain Name Similarity:  15 %
+
+Comparing:  icicibank.com and banksbi.in
+Domain Name Similarity:  11 %
+
+Comparing:  icicibank.com and bapujifoods.in
+Domain Name Similarity:  9 %
+
+Comparing:  icicibank.com and crsgoviit.online
+Domain Name Similarity:  0 %
+
+Comparing:  icicibank.com and crsogi.com
+Domain Name Similarity:  11 %
+
+Comparing:  icicibank.com and crsogovi.in
+Domain Name Similarity:  11 %
+
+Comparing:  icicibank.com and crsorggove.online
+Domain Name Similarity:  0 %
+
+Comparing:  icicibank.com and crsorggovt.co.in
+Domain Name Similarity:  0 %
+
+Comparing:  icicibank.com and crsorgi-gov-in.5g.in
+Domain Name Similarity:  12 %
+
+Comparing:  icicibank.com and crsorgi-gov.live
+Domain Name Similarity:  9 %
+
+Comparing:  icicibank.com and crsorgigovein.website
+Domain Name Similarity:  7 %
+
+Comparing:  icicibank.com and crsorgigovin.tech
+Domain Name Similarity:  8 %
+
+Comparing:  icicibank.com and crsorgigroup.website
+Domain Name Similarity:  8 %
+
+Comparing:  icicibank.com and crsorgisgovt.com
+Domain Name Similarity:  8 %
+
+Comparing:  icicibank.com and crsoriggov.online
+Domain Name Similarity:  9 %
+
+Comparing:  icicibank.com and crsosgigov.online
+Domain Name Similarity:  0 %
+
+Comparing:  icicibank.com and debbrownauthor.com
+Domain Name Similarity:  7 %
+
+Comparing:  icicibank.com and digital-finance.in
+Domain Name Similarity:  33 %
+
+Comparing:  icicibank.com and dlzths.com
+Domain Name Similarity:  0 %
+
+Comparing:  icicibank.com and earningshub.info
+Domain Name Similarity:  9 %
+
+Comparing:  icicibank.com and gmcnandyalaap-govt.in
+Domain Name Similarity:  11 %
+
+Comparing:  icicibank.com and greattajir.shop
+Domain Name Similarity:  9 %
+
+Comparing:  icicibank.com and gummivet.com
+Domain Name Similarity:  11 %
+
+Comparing:  icicibank.com and h26da513r.shop
+Domain Name Similarity:  0 %
+
+Comparing:  icicibank.com and hdfcinvestors.com
+Domain Name Similarity:  15 %
+
+Comparing:  icicibank.com and hdfcjob.co.in
+Domain Name Similarity:  11 %
+
+Comparing:  icicibank.com and hdfcloan.online
+Domain Name Similarity:  33 %
+
+Comparing:  icicibank.com and hdfcpoints.in
+Domain Name Similarity:  19 %
+
+Comparing:  icicibank.com and hdfcpointss.in
+Domain Name Similarity:  18 %
+
+Comparing:  icicibank.com and hdfcrewaad.in
+Domain Name Similarity:  19 %
+
+Comparing:  icicibank.com and hdfcrewardss.in
+Domain Name Similarity:  16 %
+
+Comparing:  icicibank.com and hdfcrewd.in
+Domain Name Similarity:  11 %
+
+Comparing:  icicibank.com and hdfcrewds.in
+Domain Name Similarity:  11 %
+
+Comparing:  icicibank.com and hdfcrewwaard.in
+Domain Name Similarity:  16 %
+
+Comparing:  icicibank.com and hdfcrewwaards.in
+Domain Name Similarity:  15 %
+
+Comparing:  icicibank.com and hrhdfc.in
+Domain Name Similarity:  0 %
+
+Comparing:  icicibank.com and hrhdfcbank.in
+Domain Name Similarity:  40 %
+
+Comparing:  icicibank.com and icicicards.com
+Domain Name Similarity:  60 %
+
+Comparing:  icicibank.com and icicicorporatebankings.com
+Domain Name Similarity:  40 %
+
+Comparing:  icicibank.com and iciciredeem.online
+Domain Name Similarity:  45 %
+
+Comparing:  icicibank.com and iciciredeemstore.in
+Domain Name Similarity:  31 %
+
+Comparing:  icicibank.com and indosbibk.in
+Domain Name Similarity:  33 %
+
+Comparing:  icicibank.com and isbiams.co.in
+Domain Name Similarity:  11 %
+
+Comparing:  icicibank.com and jiosmm.in
+Domain Name Similarity:  11 %
+
+Comparing:  icicibank.com and kalyanlaxmi.in
+Domain Name Similarity:  9 %
+
+Comparing:  icicibank.com and kayakvip.store
+Domain Name Similarity:  0 %
+
+Comparing:  icicibank.com and kayipark.info
+Domain Name Similarity:  33 %
+
+Comparing:  icicibank.com and mahindrahappinestkalyan-2.co.in
+Domain Name Similarity:  14 %
+
+Comparing:  icicibank.com and mithilafurniture.in
+Domain Name Similarity:  18 %
+
+Comparing:  icicibank.com and netinfosbi.co.in
+Domain Name Similarity:  16 %
+
+Comparing:  icicibank.com and officeipaspeedautologistic.company
+Domain Name Similarity:  15 %
+
+Comparing:  icicibank.com and onlineicici.in
+Domain Name Similarity:  18 %
+
+Comparing:  icicibank.com and onlinesbib.com
+Domain Name Similarity:  9 %
+
+Comparing:  icicibank.com and onuipark.com
+Domain Name Similarity:  33 %
+
+Comparing:  icicibank.com and parcels-id.tech
+Domain Name Similarity:  9 %
+
+Comparing:  icicibank.com and pawnbirdtoss.com
+Domain Name Similarity:  8 %
+
+Comparing:  icicibank.com and photogenicstudio.in
+Domain Name Similarity:  12 %
+
+Comparing:  icicibank.com and rajadhanicabs.in
+Domain Name Similarity:  15 %
+
+Comparing:  icicibank.com and rohilakachhar.mgmd.in
+Domain Name Similarity:  17 %
+
+Comparing:  icicibank.com and rohili.mgmd.in
+Domain Name Similarity:  19 %
+
+Comparing:  icicibank.com and rrbalp.in
+Domain Name Similarity:  22 %
+
+Comparing:  icicibank.com and sbibanke.co.in
+Domain Name Similarity:  30 %
+
+Comparing:  icicibank.com and sbibankyc.co.in
+Domain Name Similarity:  27 %
+
+Comparing:  icicibank.com and sbichairmansclub.com
+Domain Name Similarity:  31 %
+
+Comparing:  icicibank.com and sbihomeloanhlc.com
+Domain Name Similarity:  21 %
+
+Comparing:  icicibank.com and sbihworei.co.in
+Domain Name Similarity:  9 %
+
+Comparing:  icicibank.com and sbistatebank.com
+Domain Name Similarity:  41 %
+
+Comparing:  icicibank.com and sbiuptary.co.in
+Domain Name Similarity:  18 %
+
+Comparing:  icicibank.com and sbiwebanking.com
+Domain Name Similarity:  41 %
+
+Comparing:  icicibank.com and shishgrillboca.com
+Domain Name Similarity:  21 %
+
+Comparing:  icicibank.com and steelempire.in
+Domain Name Similarity:  0 %
+
+Comparing:  icicibank.com and tecshila.in
+Domain Name Similarity:  22 %
+
+Comparing:  icicibank.com and triveshsteel.in
+Domain Name Similarity:  8 %
+
+Comparing:  icicibank.com and updsbi.co.in
+Domain Name Similarity:  11 %
+
+Comparing:  icicibank.com and vipackdistribuidora.com
+Domain Name Similarity:  26 %
+
+Comparing:  icicibank.com and virtual-receptionist-29843.bond
+Domain Name Similarity:  15 %
+
+Comparing:  icicibank.com and crsargi.co.in
+Domain Name Similarity:  0 %
+
+Comparing:  icicibank.com and sbicard-cpp.in
+Domain Name Similarity:  18 %
+
+Comparing:  icicibank.com and ceatpl.in
+Domain Name Similarity:  11 %
+
+Comparing:  icicibank.com and instanthomecare.in
+Domain Name Similarity:  13 %
+
+Comparing:  icicibank.com and ceatpl.in
+Domain Name Similarity:  11 %
+
+Comparing:  icicibank.com and tasteofcoffee.in
+Domain Name Similarity:  7 %
+
+Comparing:  icicibank.com and arcollactin.in
+Domain Name Similarity:  9 %
+
+Comparing:  icicibank.com and waap.in
+Domain Name Similarity:  11 %
+
+Comparing:  icicibank.com and matchmyvibe.in
+Domain Name Similarity:  9 %
+
+Comparing:  icicibank.com and beinfratech.in
+Domain Name Similarity:  18 %
+
+Comparing:  icicibank.com and digitalindiagroup.in
+Domain Name Similarity:  23 %
+
+Comparing:  icicibank.com and doctorsnursinghome.in
+Domain Name Similarity:  11 %
+
+Comparing:  icicibank.com and doctorsmedicalcenter.in
+Domain Name Similarity:  19 %
+
+Comparing:  icicibank.com and databyte.in
+Domain Name Similarity:  11 %
+
+Comparing:  icicibank.com and imakeit.in
+Domain Name Similarity:  11 %
+
+Comparing:  icicibank.com and mywindowodisha.in
+Domain Name Similarity:  7 %
+
+Comparing:  icicibank.com and a2zprivatetheatre.in
+Domain Name Similarity:  11 %
+
+Comparing:  icicibank.com and bs2shop.in
+Domain Name Similarity:  0 %
+
+Comparing:  icicibank.com and beautypixcel.in
+Domain Name Similarity:  8 %
+
+Comparing:  icicibank.com and bs2shop2.in
+Domain Name Similarity:  0 %
+
+Comparing:  icicibank.com and hdfcbankldh.co.in
+Domain Name Similarity:  30 %
+
+Comparing:  icicibank.com and hdfclifehr.in
+Domain Name Similarity:  19 %
+
+Comparing:  icicibank.com and digital-lovedeep.in
+Domain Name Similarity:  12 %
+
+Comparing:  icicibank.com and divineskyedu.in
+Domain Name Similarity:  16 %
+
+
+	CHECKING URL SIMILARITY FOR crsorgi.gov.in
+
+Comparing:  crsorgi.gov.in and akhileshjha.co.in
+Domain Name Similarity:  7 %
+
+Comparing:  crsorgi.gov.in and banksbi.in
+Domain Name Similarity:  9 %
+
+Comparing:  crsorgi.gov.in and bapujifoods.in
+Domain Name Similarity:  9 %
+
+Comparing:  crsorgi.gov.in and crsgoviit.online
+Domain Name Similarity:  40 %
+
+Comparing:  crsorgi.gov.in and crsogi.com
+Domain Name Similarity:  60 %
+
+Comparing:  crsorgi.gov.in and crsogovi.in
+Domain Name Similarity:  60 %
+
+Comparing:  crsorgi.gov.in and crsorggove.online
+Domain Name Similarity:  80 %
+
+Comparing:  crsorgi.gov.in and crsorggovt.co.in
+Domain Name Similarity:  66 %
+
+Comparing:  crsorgi.gov.in and crsorgi-gov-in.5g.in
+Domain Name Similarity:  62 %
+
+Comparing:  crsorgi.gov.in and crsorgi-gov.live
+Domain Name Similarity:  90 %
+
+Comparing:  crsorgi.gov.in and crsorgigovein.website
+Domain Name Similarity:  76 %
+
+Comparing:  crsorgi.gov.in and crsorgigovin.tech
+Domain Name Similarity:  83 %
+
+Comparing:  crsorgi.gov.in and crsorgigroup.website
+Domain Name Similarity:  75 %
+
+Comparing:  crsorgi.gov.in and crsorgisgovt.com
+Domain Name Similarity:  83 %
+
+Comparing:  crsorgi.gov.in and crsoriggov.online
+Domain Name Similarity:  80 %
+
+Comparing:  crsorgi.gov.in and crsosgigov.online
+Domain Name Similarity:  90 %
+
+Comparing:  crsorgi.gov.in and debbrownauthor.com
+Domain Name Similarity:  14 %
+
+Comparing:  crsorgi.gov.in and digital-finance.in
+Domain Name Similarity:  6 %
+
+Comparing:  crsorgi.gov.in and dlzths.com
+Domain Name Similarity:  0 %
+
+Comparing:  crsorgi.gov.in and earningshub.info
+Domain Name Similarity:  18 %
+
+Comparing:  crsorgi.gov.in and gmcnandyalaap-govt.in
+Domain Name Similarity:  22 %
+
+Comparing:  crsorgi.gov.in and greattajir.shop
+Domain Name Similarity:  9 %
+
+Comparing:  crsorgi.gov.in and gummivet.com
+Domain Name Similarity:  9 %
+
+Comparing:  crsorgi.gov.in and h26da513r.shop
+Domain Name Similarity:  0 %
+
+Comparing:  crsorgi.gov.in and hdfcinvestors.com
+Domain Name Similarity:  7 %
+
+Comparing:  crsorgi.gov.in and hdfcjob.co.in
+Domain Name Similarity:  9 %
+
+Comparing:  crsorgi.gov.in and hdfcloan.online
+Domain Name Similarity:  0 %
+
+Comparing:  crsorgi.gov.in and hdfcpoints.in
+Domain Name Similarity:  9 %
+
+Comparing:  crsorgi.gov.in and hdfcpointss.in
+Domain Name Similarity:  9 %
+
+Comparing:  crsorgi.gov.in and hdfcrewaad.in
+Domain Name Similarity:  9 %
+
+Comparing:  crsorgi.gov.in and hdfcrewardss.in
+Domain Name Similarity:  8 %
+
+Comparing:  crsorgi.gov.in and hdfcrewd.in
+Domain Name Similarity:  9 %
+
+Comparing:  crsorgi.gov.in and hdfcrewds.in
+Domain Name Similarity:  9 %
+
+Comparing:  crsorgi.gov.in and hdfcrewwaard.in
+Domain Name Similarity:  8 %
+
+Comparing:  crsorgi.gov.in and hdfcrewwaards.in
+Domain Name Similarity:  15 %
+
+Comparing:  crsorgi.gov.in and hrhdfc.in
+Domain Name Similarity:  9 %
+
+Comparing:  crsorgi.gov.in and hrhdfcbank.in
+Domain Name Similarity:  9 %
+
+Comparing:  crsorgi.gov.in and icicicards.com
+Domain Name Similarity:  0 %
+
+Comparing:  crsorgi.gov.in and icicicorporatebankings.com
+Domain Name Similarity:  22 %
+
+Comparing:  crsorgi.gov.in and iciciredeem.online
+Domain Name Similarity:  18 %
+
+Comparing:  crsorgi.gov.in and iciciredeemstore.in
+Domain Name Similarity:  18 %
+
+Comparing:  crsorgi.gov.in and indosbibk.in
+Domain Name Similarity:  19 %
+
+Comparing:  crsorgi.gov.in and isbiams.co.in
+Domain Name Similarity:  9 %
+
+Comparing:  crsorgi.gov.in and jiosmm.in
+Domain Name Similarity:  9 %
+
+Comparing:  crsorgi.gov.in and kalyanlaxmi.in
+Domain Name Similarity:  0 %
+
+Comparing:  crsorgi.gov.in and kayakvip.store
+Domain Name Similarity:  9 %
+
+Comparing:  crsorgi.gov.in and kayipark.info
+Domain Name Similarity:  0 %
+
+Comparing:  crsorgi.gov.in and mahindrahappinestkalyan-2.co.in
+Domain Name Similarity:  7 %
+
+Comparing:  crsorgi.gov.in and mithilafurniture.in
+Domain Name Similarity:  12 %
+
+Comparing:  crsorgi.gov.in and netinfosbi.co.in
+Domain Name Similarity:  16 %
+
+Comparing:  crsorgi.gov.in and officeipaspeedautologistic.company
+Domain Name Similarity:  19 %
+
+Comparing:  crsorgi.gov.in and onlineicici.in
+Domain Name Similarity:  9 %
+
+Comparing:  crsorgi.gov.in and onlinesbib.com
+Domain Name Similarity:  0 %
+
+Comparing:  crsorgi.gov.in and onuipark.com
+Domain Name Similarity:  9 %
+
+Comparing:  crsorgi.gov.in and parcels-id.tech
+Domain Name Similarity:  0 %
+
+Comparing:  crsorgi.gov.in and pawnbirdtoss.com
+Domain Name Similarity:  8 %
+
+Comparing:  crsorgi.gov.in and photogenicstudio.in
+Domain Name Similarity:  12 %
+
+Comparing:  crsorgi.gov.in and rajadhanicabs.in
+Domain Name Similarity:  7 %
+
+Comparing:  crsorgi.gov.in and rohilakachhar.mgmd.in
+Domain Name Similarity:  11 %
+
+Comparing:  crsorgi.gov.in and rohili.mgmd.in
+Domain Name Similarity:  19 %
+
+Comparing:  crsorgi.gov.in and rrbalp.in
+Domain Name Similarity:  19 %
+
+Comparing:  crsorgi.gov.in and sbibanke.co.in
+Domain Name Similarity:  0 %
+
+Comparing:  crsorgi.gov.in and sbibankyc.co.in
+Domain Name Similarity:  0 %
+
+Comparing:  crsorgi.gov.in and sbichairmansclub.com
+Domain Name Similarity:  12 %
+
+Comparing:  crsorgi.gov.in and sbihomeloanhlc.com
+Domain Name Similarity:  7 %
+
+Comparing:  crsorgi.gov.in and sbihworei.co.in
+Domain Name Similarity:  27 %
+
+Comparing:  crsorgi.gov.in and sbistatebank.com
+Domain Name Similarity:  8 %
+
+Comparing:  crsorgi.gov.in and sbiuptary.co.in
+Domain Name Similarity:  0 %
+
+Comparing:  crsorgi.gov.in and sbiwebanking.com
+Domain Name Similarity:  0 %
+
+Comparing:  crsorgi.gov.in and shishgrillboca.com
+Domain Name Similarity:  21 %
+
+Comparing:  crsorgi.gov.in and steelempire.in
+Domain Name Similarity:  0 %
+
+Comparing:  crsorgi.gov.in and tecshila.in
+Domain Name Similarity:  9 %
+
+Comparing:  crsorgi.gov.in and triveshsteel.in
+Domain Name Similarity:  8 %
+
+Comparing:  crsorgi.gov.in and updsbi.co.in
+Domain Name Similarity:  19 %
+
+Comparing:  crsorgi.gov.in and vipackdistribuidora.com
+Domain Name Similarity:  26 %
+
+Comparing:  crsorgi.gov.in and virtual-receptionist-29843.bond
+Domain Name Similarity:  11 %
+
+Comparing:  crsorgi.gov.in and crsargi.co.in
+Domain Name Similarity:  70 %
+
+Comparing:  crsorgi.gov.in and sbicard-cpp.in
+Domain Name Similarity:  9 %
+
+Comparing:  crsorgi.gov.in and ceatpl.in
+Domain Name Similarity:  9 %
+
+Comparing:  crsorgi.gov.in and instanthomecare.in
+Domain Name Similarity:  13 %
+
+Comparing:  crsorgi.gov.in and ceatpl.in
+Domain Name Similarity:  9 %
+
+Comparing:  crsorgi.gov.in and tasteofcoffee.in
+Domain Name Similarity:  15 %
+
+Comparing:  crsorgi.gov.in and arcollactin.in
+Domain Name Similarity:  18 %
+
+Comparing:  crsorgi.gov.in and waap.in
+Domain Name Similarity:  0 %
+
+Comparing:  crsorgi.gov.in and matchmyvibe.in
+Domain Name Similarity:  0 %
+
+Comparing:  crsorgi.gov.in and beinfratech.in
+Domain Name Similarity:  9 %
+
+Comparing:  crsorgi.gov.in and digitalindiagroup.in
+Domain Name Similarity:  17 %
+
+Comparing:  crsorgi.gov.in and doctorsnursinghome.in
+Domain Name Similarity:  38 %
+
+Comparing:  crsorgi.gov.in and doctorsmedicalcenter.in
+Domain Name Similarity:  19 %
+
+Comparing:  crsorgi.gov.in and databyte.in
+Domain Name Similarity:  0 %
+
+Comparing:  crsorgi.gov.in and imakeit.in
+Domain Name Similarity:  9 %
+
+Comparing:  crsorgi.gov.in and mywindowodisha.in
+Domain Name Similarity:  14 %
+
+Comparing:  crsorgi.gov.in and a2zprivatetheatre.in
+Domain Name Similarity:  5 %
+
+Comparing:  crsorgi.gov.in and bs2shop.in
+Domain Name Similarity:  19 %
+
+Comparing:  crsorgi.gov.in and beautypixcel.in
+Domain Name Similarity:  8 %
+
+Comparing:  crsorgi.gov.in and bs2shop2.in
+Domain Name Similarity:  9 %
+
+Comparing:  crsorgi.gov.in and hdfcbankldh.co.in
+Domain Name Similarity:  7 %
+
+Comparing:  crsorgi.gov.in and hdfclifehr.in
+Domain Name Similarity:  0 %
+
+Comparing:  crsorgi.gov.in and digital-lovedeep.in
+Domain Name Similarity:  12 %
+
+Comparing:  crsorgi.gov.in and divineskyedu.in
+Domain Name Similarity:  0 %
+
+
+	CHECKING URL SIMILARITY FOR hdfc.com
+
+Comparing:  hdfc.com and akhileshjha.co.in
+Domain Name Similarity:  15 %
+
+Comparing:  hdfc.com and banksbi.in
+Domain Name Similarity:  0 %
+
+Comparing:  hdfc.com and bapujifoods.in
+Domain Name Similarity:  9 %
+
+Comparing:  hdfc.com and crsgoviit.online
+Domain Name Similarity:  0 %
+
+Comparing:  hdfc.com and crsogi.com
+Domain Name Similarity:  0 %
+
+Comparing:  hdfc.com and crsogovi.in
+Domain Name Similarity:  0 %
+
+Comparing:  hdfc.com and crsorggove.online
+Domain Name Similarity:  0 %
+
+Comparing:  hdfc.com and crsorggovt.co.in
+Domain Name Similarity:  8 %
+
+Comparing:  hdfc.com and crsorgi-gov-in.5g.in
+Domain Name Similarity:  0 %
+
+Comparing:  hdfc.com and crsorgi-gov.live
+Domain Name Similarity:  0 %
+
+Comparing:  hdfc.com and crsorgigovein.website
+Domain Name Similarity:  0 %
+
+Comparing:  hdfc.com and crsorgigovin.tech
+Domain Name Similarity:  0 %
+
+Comparing:  hdfc.com and crsorgigroup.website
+Domain Name Similarity:  0 %
+
+Comparing:  hdfc.com and crsorgisgovt.com
+Domain Name Similarity:  0 %
+
+Comparing:  hdfc.com and crsoriggov.online
+Domain Name Similarity:  0 %
+
+Comparing:  hdfc.com and crsosgigov.online
+Domain Name Similarity:  0 %
+
+Comparing:  hdfc.com and debbrownauthor.com
+Domain Name Similarity:  0 %
+
+Comparing:  hdfc.com and digital-finance.in
+Domain Name Similarity:  13 %
+
+Comparing:  hdfc.com and dlzths.com
+Domain Name Similarity:  0 %
+
+Comparing:  hdfc.com and earningshub.info
+Domain Name Similarity:  0 %
+
+Comparing:  hdfc.com and gmcnandyalaap-govt.in
+Domain Name Similarity:  5 %
+
+Comparing:  hdfc.com and greattajir.shop
+Domain Name Similarity:  0 %
+
+Comparing:  hdfc.com and gummivet.com
+Domain Name Similarity:  0 %
+
+Comparing:  hdfc.com and h26da513r.shop
+Domain Name Similarity:  22 %
+
+Comparing:  hdfc.com and hdfcinvestors.com
+Domain Name Similarity:  30 %
+
+Comparing:  hdfc.com and hdfcjob.co.in
+Domain Name Similarity:  44 %
+
+Comparing:  hdfc.com and hdfcloan.online
+Domain Name Similarity:  50 %
+
+Comparing:  hdfc.com and hdfcpoints.in
+Domain Name Similarity:  40 %
+
+Comparing:  hdfc.com and hdfcpointss.in
+Domain Name Similarity:  36 %
+
+Comparing:  hdfc.com and hdfcrewaad.in
+Domain Name Similarity:  40 %
+
+Comparing:  hdfc.com and hdfcrewardss.in
+Domain Name Similarity:  33 %
+
+Comparing:  hdfc.com and hdfcrewd.in
+Domain Name Similarity:  50 %
+
+Comparing:  hdfc.com and hdfcrewds.in
+Domain Name Similarity:  44 %
+
+Comparing:  hdfc.com and hdfcrewwaard.in
+Domain Name Similarity:  33 %
+
+Comparing:  hdfc.com and hdfcrewwaards.in
+Domain Name Similarity:  30 %
+
+Comparing:  hdfc.com and hrhdfc.in
+Domain Name Similarity:  66 %
+
+Comparing:  hdfc.com and hrhdfcbank.in
+Domain Name Similarity:  40 %
+
+Comparing:  hdfc.com and icicicards.com
+Domain Name Similarity:  9 %
+
+Comparing:  hdfc.com and icicicorporatebankings.com
+Domain Name Similarity:  4 %
+
+Comparing:  hdfc.com and iciciredeem.online
+Domain Name Similarity:  9 %
+
+Comparing:  hdfc.com and iciciredeemstore.in
+Domain Name Similarity:  6 %
+
+Comparing:  hdfc.com and indosbibk.in
+Domain Name Similarity:  11 %
+
+Comparing:  hdfc.com and isbiams.co.in
+Domain Name Similarity:  11 %
+
+Comparing:  hdfc.com and jiosmm.in
+Domain Name Similarity:  0 %
+
+Comparing:  hdfc.com and kalyanlaxmi.in
+Domain Name Similarity:  0 %
+
+Comparing:  hdfc.com and kayakvip.store
+Domain Name Similarity:  0 %
+
+Comparing:  hdfc.com and kayipark.info
+Domain Name Similarity:  0 %
+
+Comparing:  hdfc.com and mahindrahappinestkalyan-2.co.in
+Domain Name Similarity:  11 %
+
+Comparing:  hdfc.com and mithilafurniture.in
+Domain Name Similarity:  12 %
+
+Comparing:  hdfc.com and netinfosbi.co.in
+Domain Name Similarity:  16 %
+
+Comparing:  hdfc.com and officeipaspeedautologistic.company
+Domain Name Similarity:  7 %
+
+Comparing:  hdfc.com and onlineicici.in
+Domain Name Similarity:  9 %
+
+Comparing:  hdfc.com and onlinesbib.com
+Domain Name Similarity:  0 %
+
+Comparing:  hdfc.com and onuipark.com
+Domain Name Similarity:  0 %
+
+Comparing:  hdfc.com and parcels-id.tech
+Domain Name Similarity:  9 %
+
+Comparing:  hdfc.com and pawnbirdtoss.com
+Domain Name Similarity:  8 %
+
+Comparing:  hdfc.com and photogenicstudio.in
+Domain Name Similarity:  12 %
+
+Comparing:  hdfc.com and rajadhanicabs.in
+Domain Name Similarity:  15 %
+
+Comparing:  hdfc.com and rohilakachhar.mgmd.in
+Domain Name Similarity:  11 %
+
+Comparing:  hdfc.com and rohili.mgmd.in
+Domain Name Similarity:  9 %
+
+Comparing:  hdfc.com and rrbalp.in
+Domain Name Similarity:  0 %
+
+Comparing:  hdfc.com and sbibanke.co.in
+Domain Name Similarity:  9 %
+
+Comparing:  hdfc.com and sbibankyc.co.in
+Domain Name Similarity:  9 %
+
+Comparing:  hdfc.com and sbichairmansclub.com
+Domain Name Similarity:  12 %
+
+Comparing:  hdfc.com and sbihomeloanhlc.com
+Domain Name Similarity:  14 %
+
+Comparing:  hdfc.com and sbihworei.co.in
+Domain Name Similarity:  18 %
+
+Comparing:  hdfc.com and sbistatebank.com
+Domain Name Similarity:  0 %
+
+Comparing:  hdfc.com and sbiuptary.co.in
+Domain Name Similarity:  9 %
+
+Comparing:  hdfc.com and sbiwebanking.com
+Domain Name Similarity:  0 %
+
+Comparing:  hdfc.com and shishgrillboca.com
+Domain Name Similarity:  14 %
+
+Comparing:  hdfc.com and steelempire.in
+Domain Name Similarity:  0 %
+
+Comparing:  hdfc.com and tecshila.in
+Domain Name Similarity:  12 %
+
+Comparing:  hdfc.com and triveshsteel.in
+Domain Name Similarity:  8 %
+
+Comparing:  hdfc.com and updsbi.co.in
+Domain Name Similarity:  25 %
+
+Comparing:  hdfc.com and vipackdistribuidora.com
+Domain Name Similarity:  5 %
+
+Comparing:  hdfc.com and virtual-receptionist-29843.bond
+Domain Name Similarity:  3 %
+
+Comparing:  hdfc.com and crsargi.co.in
+Domain Name Similarity:  11 %
+
+Comparing:  hdfc.com and sbicard-cpp.in
+Domain Name Similarity:  18 %
+
+Comparing:  hdfc.com and ceatpl.in
+Domain Name Similarity:  0 %
+
+Comparing:  hdfc.com and instanthomecare.in
+Domain Name Similarity:  13 %
+
+Comparing:  hdfc.com and ceatpl.in
+Domain Name Similarity:  0 %
+
+Comparing:  hdfc.com and tasteofcoffee.in
+Domain Name Similarity:  15 %
+
+Comparing:  hdfc.com and arcollactin.in
+Domain Name Similarity:  9 %
+
+Comparing:  hdfc.com and waap.in
+Domain Name Similarity:  0 %
+
+Comparing:  hdfc.com and matchmyvibe.in
+Domain Name Similarity:  9 %
+
+Comparing:  hdfc.com and beinfratech.in
+Domain Name Similarity:  18 %
+
+Comparing:  hdfc.com and digitalindiagroup.in
+Domain Name Similarity:  5 %
+
+Comparing:  hdfc.com and doctorsnursinghome.in
+Domain Name Similarity:  5 %
+
+Comparing:  hdfc.com and doctorsmedicalcenter.in
+Domain Name Similarity:  9 %
+
+Comparing:  hdfc.com and databyte.in
+Domain Name Similarity:  0 %
+
+Comparing:  hdfc.com and imakeit.in
+Domain Name Similarity:  0 %
+
+Comparing:  hdfc.com and mywindowodisha.in
+Domain Name Similarity:  7 %
+
+Comparing:  hdfc.com and a2zprivatetheatre.in
+Domain Name Similarity:  5 %
+
+Comparing:  hdfc.com and bs2shop.in
+Domain Name Similarity:  0 %
+
+Comparing:  hdfc.com and beautypixcel.in
+Domain Name Similarity:  8 %
+
+Comparing:  hdfc.com and bs2shop2.in
+Domain Name Similarity:  12 %
+
+Comparing:  hdfc.com and hdfcbankldh.co.in
+Domain Name Similarity:  30 %
+
+Comparing:  hdfc.com and hdfclifehr.in
+Domain Name Similarity:  40 %
+
+Comparing:  hdfc.com and digital-lovedeep.in
+Domain Name Similarity:  6 %
+
+Comparing:  hdfc.com and divineskyedu.in
+Domain Name Similarity:  0 %
+
+
+	CHECKING URL SIMILARITY FOR hdfclife.com
+
+Comparing:  hdfclife.com and akhileshjha.co.in
+Domain Name Similarity:  7 %
+
+Comparing:  hdfclife.com and banksbi.in
+Domain Name Similarity:  0 %
+
+Comparing:  hdfclife.com and bapujifoods.in
+Domain Name Similarity:  18 %
+
+Comparing:  hdfclife.com and crsgoviit.online
+Domain Name Similarity:  11 %
+
+Comparing:  hdfclife.com and crsogi.com
+Domain Name Similarity:  12 %
+
+Comparing:  hdfclife.com and crsogovi.in
+Domain Name Similarity:  0 %
+
+Comparing:  hdfclife.com and crsorggove.online
+Domain Name Similarity:  9 %
+
+Comparing:  hdfclife.com and crsorggovt.co.in
+Domain Name Similarity:  0 %
+
+Comparing:  hdfclife.com and crsorgi-gov-in.5g.in
+Domain Name Similarity:  6 %
+
+Comparing:  hdfclife.com and crsorgi-gov.live
+Domain Name Similarity:  9 %
+
+Comparing:  hdfclife.com and crsorgigovein.website
+Domain Name Similarity:  15 %
+
+Comparing:  hdfclife.com and crsorgigovin.tech
+Domain Name Similarity:  8 %
+
+Comparing:  hdfclife.com and crsorgigroup.website
+Domain Name Similarity:  8 %
+
+Comparing:  hdfclife.com and crsorgisgovt.com
+Domain Name Similarity:  8 %
+
+Comparing:  hdfclife.com and crsoriggov.online
+Domain Name Similarity:  9 %
+
+Comparing:  hdfclife.com and crsosgigov.online
+Domain Name Similarity:  9 %
+
+Comparing:  hdfclife.com and debbrownauthor.com
+Domain Name Similarity:  0 %
+
+Comparing:  hdfclife.com and digital-finance.in
+Domain Name Similarity:  19 %
+
+Comparing:  hdfclife.com and dlzths.com
+Domain Name Similarity:  12 %
+
+Comparing:  hdfclife.com and earningshub.info
+Domain Name Similarity:  0 %
+
+Comparing:  hdfclife.com and gmcnandyalaap-govt.in
+Domain Name Similarity:  11 %
+
+Comparing:  hdfclife.com and greattajir.shop
+Domain Name Similarity:  0 %
+
+Comparing:  hdfclife.com and gummivet.com
+Domain Name Similarity:  12 %
+
+Comparing:  hdfclife.com and h26da513r.shop
+Domain Name Similarity:  11 %
+
+Comparing:  hdfclife.com and hdfcinvestors.com
+Domain Name Similarity:  38 %
+
+Comparing:  hdfclife.com and hdfcjob.co.in
+Domain Name Similarity:  44 %
+
+Comparing:  hdfclife.com and hdfcloan.online
+Domain Name Similarity:  62 %
+
+Comparing:  hdfclife.com and hdfcpoints.in
+Domain Name Similarity:  50 %
+
+Comparing:  hdfclife.com and hdfcpointss.in
+Domain Name Similarity:  45 %
+
+Comparing:  hdfclife.com and hdfcrewaad.in
+Domain Name Similarity:  40 %
+
+Comparing:  hdfclife.com and hdfcrewardss.in
+Domain Name Similarity:  33 %
+
+Comparing:  hdfclife.com and hdfcrewd.in
+Domain Name Similarity:  50 %
+
+Comparing:  hdfclife.com and hdfcrewds.in
+Domain Name Similarity:  44 %
+
+Comparing:  hdfclife.com and hdfcrewwaard.in
+Domain Name Similarity:  33 %
+
+Comparing:  hdfclife.com and hdfcrewwaards.in
+Domain Name Similarity:  30 %
+
+Comparing:  hdfclife.com and hrhdfc.in
+Domain Name Similarity:  25 %
+
+Comparing:  hdfclife.com and hrhdfcbank.in
+Domain Name Similarity:  40 %
+
+Comparing:  hdfclife.com and icicicards.com
+Domain Name Similarity:  9 %
+
+Comparing:  hdfclife.com and icicicorporatebankings.com
+Domain Name Similarity:  9 %
+
+Comparing:  hdfclife.com and iciciredeem.online
+Domain Name Similarity:  18 %
+
+Comparing:  hdfclife.com and iciciredeemstore.in
+Domain Name Similarity:  12 %
+
+Comparing:  hdfclife.com and indosbibk.in
+Domain Name Similarity:  22 %
+
+Comparing:  hdfclife.com and isbiams.co.in
+Domain Name Similarity:  0 %
+
+Comparing:  hdfclife.com and jiosmm.in
+Domain Name Similarity:  0 %
+
+Comparing:  hdfclife.com and kalyanlaxmi.in
+Domain Name Similarity:  9 %
+
+Comparing:  hdfclife.com and kayakvip.store
+Domain Name Similarity:  0 %
+
+Comparing:  hdfclife.com and kayipark.info
+Domain Name Similarity:  0 %
+
+Comparing:  hdfclife.com and mahindrahappinestkalyan-2.co.in
+Domain Name Similarity:  14 %
+
+Comparing:  hdfclife.com and mithilafurniture.in
+Domain Name Similarity:  25 %
+
+Comparing:  hdfclife.com and netinfosbi.co.in
+Domain Name Similarity:  16 %
+
+Comparing:  hdfclife.com and officeipaspeedautologistic.company
+Domain Name Similarity:  15 %
+
+Comparing:  hdfclife.com and onlineicici.in
+Domain Name Similarity:  9 %
+
+Comparing:  hdfclife.com and onlinesbib.com
+Domain Name Similarity:  9 %
+
+Comparing:  hdfclife.com and onuipark.com
+Domain Name Similarity:  0 %
+
+Comparing:  hdfclife.com and parcels-id.tech
+Domain Name Similarity:  19 %
+
+Comparing:  hdfclife.com and pawnbirdtoss.com
+Domain Name Similarity:  8 %
+
+Comparing:  hdfclife.com and photogenicstudio.in
+Domain Name Similarity:  12 %
+
+Comparing:  hdfclife.com and rajadhanicabs.in
+Domain Name Similarity:  15 %
+
+Comparing:  hdfclife.com and rohilakachhar.mgmd.in
+Domain Name Similarity:  11 %
+
+Comparing:  hdfclife.com and rohili.mgmd.in
+Domain Name Similarity:  19 %
+
+Comparing:  hdfclife.com and rrbalp.in
+Domain Name Similarity:  12 %
+
+Comparing:  hdfclife.com and sbibanke.co.in
+Domain Name Similarity:  9 %
+
+Comparing:  hdfclife.com and sbibankyc.co.in
+Domain Name Similarity:  0 %
+
+Comparing:  hdfclife.com and sbichairmansclub.com
+Domain Name Similarity:  12 %
+
+Comparing:  hdfclife.com and sbihomeloanhlc.com
+Domain Name Similarity:  14 %
+
+Comparing:  hdfclife.com and sbihworei.co.in
+Domain Name Similarity:  18 %
+
+Comparing:  hdfclife.com and sbistatebank.com
+Domain Name Similarity:  8 %
+
+Comparing:  hdfclife.com and sbiuptary.co.in
+Domain Name Similarity:  0 %
+
+Comparing:  hdfclife.com and sbiwebanking.com
+Domain Name Similarity:  8 %
+
+Comparing:  hdfclife.com and shishgrillboca.com
+Domain Name Similarity:  14 %
+
+Comparing:  hdfclife.com and steelempire.in
+Domain Name Similarity:  27 %
+
+Comparing:  hdfclife.com and tecshila.in
+Domain Name Similarity:  12 %
+
+Comparing:  hdfclife.com and triveshsteel.in
+Domain Name Similarity:  8 %
+
+Comparing:  hdfclife.com and updsbi.co.in
+Domain Name Similarity:  12 %
+
+Comparing:  hdfclife.com and vipackdistribuidora.com
+Domain Name Similarity:  10 %
+
+Comparing:  hdfclife.com and virtual-receptionist-29843.bond
+Domain Name Similarity:  7 %
+
+Comparing:  hdfclife.com and crsargi.co.in
+Domain Name Similarity:  11 %
+
+Comparing:  hdfclife.com and sbicard-cpp.in
+Domain Name Similarity:  9 %
+
+Comparing:  hdfclife.com and ceatpl.in
+Domain Name Similarity:  0 %
+
+Comparing:  hdfclife.com and instanthomecare.in
+Domain Name Similarity:  13 %
+
+Comparing:  hdfclife.com and ceatpl.in
+Domain Name Similarity:  0 %
+
+Comparing:  hdfclife.com and tasteofcoffee.in
+Domain Name Similarity:  30 %
+
+Comparing:  hdfclife.com and arcollactin.in
+Domain Name Similarity:  9 %
+
+Comparing:  hdfclife.com and waap.in
+Domain Name Similarity:  0 %
+
+Comparing:  hdfclife.com and matchmyvibe.in
+Domain Name Similarity:  27 %
+
+Comparing:  hdfclife.com and beinfratech.in
+Domain Name Similarity:  9 %
+
+Comparing:  hdfclife.com and digitalindiagroup.in
+Domain Name Similarity:  11 %
+
+Comparing:  hdfclife.com and doctorsnursinghome.in
+Domain Name Similarity:  16 %
+
+Comparing:  hdfclife.com and doctorsmedicalcenter.in
+Domain Name Similarity:  19 %
+
+Comparing:  hdfclife.com and databyte.in
+Domain Name Similarity:  12 %
+
+Comparing:  hdfclife.com and imakeit.in
+Domain Name Similarity:  12 %
+
+Comparing:  hdfclife.com and mywindowodisha.in
+Domain Name Similarity:  14 %
+
+Comparing:  hdfclife.com and a2zprivatetheatre.in
+Domain Name Similarity:  11 %
+
+Comparing:  hdfclife.com and bs2shop.in
+Domain Name Similarity:  0 %
+
+Comparing:  hdfclife.com and beautypixcel.in
+Domain Name Similarity:  16 %
+
+Comparing:  hdfclife.com and bs2shop2.in
+Domain Name Similarity:  0 %
+
+Comparing:  hdfclife.com and hdfcbankldh.co.in
+Domain Name Similarity:  38 %
+
+Comparing:  hdfclife.com and hdfclifehr.in
+Domain Name Similarity:  80 %
+
+Comparing:  hdfclife.com and digital-lovedeep.in
+Domain Name Similarity:  12 %
+
+Comparing:  hdfclife.com and divineskyedu.in
+Domain Name Similarity:  8 %
+
+
+	CHECKING URL SIMILARITY FOR uidai.gov.in
+
+Comparing:  uidai.gov.in and akhileshjha.co.in
+Domain Name Similarity:  7 %
+
+Comparing:  uidai.gov.in and banksbi.in
+Domain Name Similarity:  0 %
+
+Comparing:  uidai.gov.in and bapujifoods.in
+Domain Name Similarity:  18 %
+
+Comparing:  uidai.gov.in and crsgoviit.online
+Domain Name Similarity:  11 %
+
+Comparing:  uidai.gov.in and crsogi.com
+Domain Name Similarity:  12 %
+
+Comparing:  uidai.gov.in and crsogovi.in
+Domain Name Similarity:  25 %
+
+Comparing:  uidai.gov.in and crsorggove.online
+Domain Name Similarity:  30 %
+
+Comparing:  uidai.gov.in and crsorggovt.co.in
+Domain Name Similarity:  25 %
+
+Comparing:  uidai.gov.in and crsorgi-gov-in.5g.in
+Domain Name Similarity:  25 %
+
+Comparing:  uidai.gov.in and crsorgi-gov.live
+Domain Name Similarity:  36 %
+
+Comparing:  uidai.gov.in and crsorgigovein.website
+Domain Name Similarity:  30 %
+
+Comparing:  uidai.gov.in and crsorgigovin.tech
+Domain Name Similarity:  33 %
+
+Comparing:  uidai.gov.in and crsorgigroup.website
+Domain Name Similarity:  25 %
+
+Comparing:  uidai.gov.in and crsorgisgovt.com
+Domain Name Similarity:  33 %
+
+Comparing:  uidai.gov.in and crsoriggov.online
+Domain Name Similarity:  40 %
+
+Comparing:  uidai.gov.in and crsosgigov.online
+Domain Name Similarity:  40 %
+
+Comparing:  uidai.gov.in and debbrownauthor.com
+Domain Name Similarity:  14 %
+
+Comparing:  uidai.gov.in and digital-finance.in
+Domain Name Similarity:  19 %
+
+Comparing:  uidai.gov.in and dlzths.com
+Domain Name Similarity:  12 %
+
+Comparing:  uidai.gov.in and earningshub.info
+Domain Name Similarity:  18 %
+
+Comparing:  uidai.gov.in and gmcnandyalaap-govt.in
+Domain Name Similarity:  27 %
+
+Comparing:  uidai.gov.in and greattajir.shop
+Domain Name Similarity:  9 %
+
+Comparing:  uidai.gov.in and gummivet.com
+Domain Name Similarity:  12 %
+
+Comparing:  uidai.gov.in and h26da513r.shop
+Domain Name Similarity:  22 %
+
+Comparing:  uidai.gov.in and hdfcinvestors.com
+Domain Name Similarity:  15 %
+
+Comparing:  uidai.gov.in and hdfcjob.co.in
+Domain Name Similarity:  11 %
+
+Comparing:  uidai.gov.in and hdfcloan.online
+Domain Name Similarity:  12 %
+
+Comparing:  uidai.gov.in and hdfcpoints.in
+Domain Name Similarity:  9 %
+
+Comparing:  uidai.gov.in and hdfcpointss.in
+Domain Name Similarity:  9 %
+
+Comparing:  uidai.gov.in and hdfcrewaad.in
+Domain Name Similarity:  0 %
+
+Comparing:  uidai.gov.in and hdfcrewardss.in
+Domain Name Similarity:  8 %
+
+Comparing:  uidai.gov.in and hdfcrewd.in
+Domain Name Similarity:  0 %
+
+Comparing:  uidai.gov.in and hdfcrewds.in
+Domain Name Similarity:  0 %
+
+Comparing:  uidai.gov.in and hdfcrewwaard.in
+Domain Name Similarity:  0 %
+
+Comparing:  uidai.gov.in and hdfcrewwaards.in
+Domain Name Similarity:  7 %
+
+Comparing:  uidai.gov.in and hrhdfc.in
+Domain Name Similarity:  0 %
+
+Comparing:  uidai.gov.in and hrhdfcbank.in
+Domain Name Similarity:  9 %
+
+Comparing:  uidai.gov.in and icicicards.com
+Domain Name Similarity:  9 %
+
+Comparing:  uidai.gov.in and icicicorporatebankings.com
+Domain Name Similarity:  13 %
+
+Comparing:  uidai.gov.in and iciciredeem.online
+Domain Name Similarity:  9 %
+
+Comparing:  uidai.gov.in and iciciredeemstore.in
+Domain Name Similarity:  18 %
+
+Comparing:  uidai.gov.in and indosbibk.in
+Domain Name Similarity:  11 %
+
+Comparing:  uidai.gov.in and isbiams.co.in
+Domain Name Similarity:  11 %
+
+Comparing:  uidai.gov.in and jiosmm.in
+Domain Name Similarity:  12 %
+
+Comparing:  uidai.gov.in and kalyanlaxmi.in
+Domain Name Similarity:  9 %
+
+Comparing:  uidai.gov.in and kayakvip.store
+Domain Name Similarity:  12 %
+
+Comparing:  uidai.gov.in and kayipark.info
+Domain Name Similarity:  0 %
+
+Comparing:  uidai.gov.in and mahindrahappinestkalyan-2.co.in
+Domain Name Similarity:  14 %
+
+Comparing:  uidai.gov.in and mithilafurniture.in
+Domain Name Similarity:  18 %
+
+Comparing:  uidai.gov.in and netinfosbi.co.in
+Domain Name Similarity:  16 %
+
+Comparing:  uidai.gov.in and officeipaspeedautologistic.company
+Domain Name Similarity:  15 %
+
+Comparing:  uidai.gov.in and onlineicici.in
+Domain Name Similarity:  18 %
+
+Comparing:  uidai.gov.in and onlinesbib.com
+Domain Name Similarity:  9 %
+
+Comparing:  uidai.gov.in and onuipark.com
+Domain Name Similarity:  12 %
+
+Comparing:  uidai.gov.in and parcels-id.tech
+Domain Name Similarity:  0 %
+
+Comparing:  uidai.gov.in and pawnbirdtoss.com
+Domain Name Similarity:  16 %
+
+Comparing:  uidai.gov.in and photogenicstudio.in
+Domain Name Similarity:  6 %
+
+Comparing:  uidai.gov.in and rajadhanicabs.in
+Domain Name Similarity:  23 %
+
+Comparing:  uidai.gov.in and rohilakachhar.mgmd.in
+Domain Name Similarity:  17 %
+
+Comparing:  uidai.gov.in and rohili.mgmd.in
+Domain Name Similarity:  19 %
+
+Comparing:  uidai.gov.in and rrbalp.in
+Domain Name Similarity:  12 %
+
+Comparing:  uidai.gov.in and sbibanke.co.in
+Domain Name Similarity:  19 %
+
+Comparing:  uidai.gov.in and sbibankyc.co.in
+Domain Name Similarity:  18 %
+
+Comparing:  uidai.gov.in and sbichairmansclub.com
+Domain Name Similarity:  18 %
+
+Comparing:  uidai.gov.in and sbihomeloanhlc.com
+Domain Name Similarity:  14 %
+
+Comparing:  uidai.gov.in and sbihworei.co.in
+Domain Name Similarity:  18 %
+
+Comparing:  uidai.gov.in and sbistatebank.com
+Domain Name Similarity:  16 %
+
+Comparing:  uidai.gov.in and sbiuptary.co.in
+Domain Name Similarity:  18 %
+
+Comparing:  uidai.gov.in and sbiwebanking.com
+Domain Name Similarity:  16 %
+
+Comparing:  uidai.gov.in and shishgrillboca.com
+Domain Name Similarity:  21 %
+
+Comparing:  uidai.gov.in and steelempire.in
+Domain Name Similarity:  0 %
+
+Comparing:  uidai.gov.in and tecshila.in
+Domain Name Similarity:  0 %
+
+Comparing:  uidai.gov.in and triveshsteel.in
+Domain Name Similarity:  8 %
+
+Comparing:  uidai.gov.in and updsbi.co.in
+Domain Name Similarity:  37 %
+
+Comparing:  uidai.gov.in and vipackdistribuidora.com
+Domain Name Similarity:  21 %
+
+Comparing:  uidai.gov.in and virtual-receptionist-29843.bond
+Domain Name Similarity:  11 %
+
+Comparing:  uidai.gov.in and crsargi.co.in
+Domain Name Similarity:  22 %
+
+Comparing:  uidai.gov.in and sbicard-cpp.in
+Domain Name Similarity:  18 %
+
+Comparing:  uidai.gov.in and ceatpl.in
+Domain Name Similarity:  12 %
+
+Comparing:  uidai.gov.in and instanthomecare.in
+Domain Name Similarity:  13 %
+
+Comparing:  uidai.gov.in and ceatpl.in
+Domain Name Similarity:  12 %
+
+Comparing:  uidai.gov.in and tasteofcoffee.in
+Domain Name Similarity:  7 %
+
+Comparing:  uidai.gov.in and arcollactin.in
+Domain Name Similarity:  9 %
+
+Comparing:  uidai.gov.in and waap.in
+Domain Name Similarity:  12 %
+
+Comparing:  uidai.gov.in and matchmyvibe.in
+Domain Name Similarity:  9 %
+
+Comparing:  uidai.gov.in and beinfratech.in
+Domain Name Similarity:  18 %
+
+Comparing:  uidai.gov.in and digitalindiagroup.in
+Domain Name Similarity:  29 %
+
+Comparing:  uidai.gov.in and doctorsnursinghome.in
+Domain Name Similarity:  16 %
+
+Comparing:  uidai.gov.in and doctorsmedicalcenter.in
+Domain Name Similarity:  9 %
+
+Comparing:  uidai.gov.in and databyte.in
+Domain Name Similarity:  12 %
+
+Comparing:  uidai.gov.in and imakeit.in
+Domain Name Similarity:  25 %
+
+Comparing:  uidai.gov.in and mywindowodisha.in
+Domain Name Similarity:  21 %
+
+Comparing:  uidai.gov.in and a2zprivatetheatre.in
+Domain Name Similarity:  11 %
+
+Comparing:  uidai.gov.in and bs2shop.in
+Domain Name Similarity:  12 %
+
+Comparing:  uidai.gov.in and beautypixcel.in
+Domain Name Similarity:  16 %
+
+Comparing:  uidai.gov.in and bs2shop2.in
+Domain Name Similarity:  0 %
+
+Comparing:  uidai.gov.in and hdfcbankldh.co.in
+Domain Name Similarity:  7 %
+
+Comparing:  uidai.gov.in and hdfclifehr.in
+Domain Name Similarity:  9 %
+
+Comparing:  uidai.gov.in and digital-lovedeep.in
+Domain Name Similarity:  25 %
+
+Comparing:  uidai.gov.in and divineskyedu.in
+Domain Name Similarity:  8 %
+
+
+	CHECKING URL SIMILARITY FOR onlinesbi.sbi
+
+Comparing:  onlinesbi.sbi and akhileshjha.co.in
+Domain Name Similarity:  23 %
+
+Comparing:  onlinesbi.sbi and banksbi.in
+Domain Name Similarity:  44 %
+
+Comparing:  onlinesbi.sbi and bapujifoods.in
+Domain Name Similarity:  9 %
+
+Comparing:  onlinesbi.sbi and crsgoviit.online
+Domain Name Similarity:  0 %
+
+Comparing:  onlinesbi.sbi and crsogi.com
+Domain Name Similarity:  11 %
+
+Comparing:  onlinesbi.sbi and crsogovi.in
+Domain Name Similarity:  11 %
+
+Comparing:  onlinesbi.sbi and crsorggove.online
+Domain Name Similarity:  0 %
+
+Comparing:  onlinesbi.sbi and crsorggovt.co.in
+Domain Name Similarity:  8 %
+
+Comparing:  onlinesbi.sbi and crsorgi-gov-in.5g.in
+Domain Name Similarity:  18 %
+
+Comparing:  onlinesbi.sbi and crsorgi-gov.live
+Domain Name Similarity:  9 %
+
+Comparing:  onlinesbi.sbi and crsorgigovein.website
+Domain Name Similarity:  23 %
+
+Comparing:  onlinesbi.sbi and crsorgigovin.tech
+Domain Name Similarity:  16 %
+
+Comparing:  onlinesbi.sbi and crsorgigroup.website
+Domain Name Similarity:  16 %
+
+Comparing:  onlinesbi.sbi and crsorgisgovt.com
+Domain Name Similarity:  16 %
+
+Comparing:  onlinesbi.sbi and crsoriggov.online
+Domain Name Similarity:  0 %
+
+Comparing:  onlinesbi.sbi and crsosgigov.online
+Domain Name Similarity:  0 %
+
+Comparing:  onlinesbi.sbi and debbrownauthor.com
+Domain Name Similarity:  7 %
+
+Comparing:  onlinesbi.sbi and digital-finance.in
+Domain Name Similarity:  19 %
+
+Comparing:  onlinesbi.sbi and dlzths.com
+Domain Name Similarity:  22 %
+
+Comparing:  onlinesbi.sbi and earningshub.info
+Domain Name Similarity:  27 %
+
+Comparing:  onlinesbi.sbi and gmcnandyalaap-govt.in
+Domain Name Similarity:  11 %
+
+Comparing:  onlinesbi.sbi and greattajir.shop
+Domain Name Similarity:  9 %
+
+Comparing:  onlinesbi.sbi and gummivet.com
+Domain Name Similarity:  11 %
+
+Comparing:  onlinesbi.sbi and h26da513r.shop
+Domain Name Similarity:  0 %
+
+Comparing:  onlinesbi.sbi and hdfcinvestors.com
+Domain Name Similarity:  30 %
+
+Comparing:  onlinesbi.sbi and hdfcjob.co.in
+Domain Name Similarity:  0 %
+
+Comparing:  onlinesbi.sbi and hdfcloan.online
+Domain Name Similarity:  0 %
+
+Comparing:  onlinesbi.sbi and hdfcpoints.in
+Domain Name Similarity:  9 %
+
+Comparing:  onlinesbi.sbi and hdfcpointss.in
+Domain Name Similarity:  18 %
+
+Comparing:  onlinesbi.sbi and hdfcrewaad.in
+Domain Name Similarity:  9 %
+
+Comparing:  onlinesbi.sbi and hdfcrewardss.in
+Domain Name Similarity:  8 %
+
+Comparing:  onlinesbi.sbi and hdfcrewd.in
+Domain Name Similarity:  11 %
+
+Comparing:  onlinesbi.sbi and hdfcrewds.in
+Domain Name Similarity:  11 %
+
+Comparing:  onlinesbi.sbi and hdfcrewwaard.in
+Domain Name Similarity:  8 %
+
+Comparing:  onlinesbi.sbi and hdfcrewwaards.in
+Domain Name Similarity:  7 %
+
+Comparing:  onlinesbi.sbi and hrhdfc.in
+Domain Name Similarity:  0 %
+
+Comparing:  onlinesbi.sbi and hrhdfcbank.in
+Domain Name Similarity:  0 %
+
+Comparing:  onlinesbi.sbi and icicicards.com
+Domain Name Similarity:  9 %
+
+Comparing:  onlinesbi.sbi and icicicorporatebankings.com
+Domain Name Similarity:  13 %
+
+Comparing:  onlinesbi.sbi and iciciredeem.online
+Domain Name Similarity:  18 %
+
+Comparing:  onlinesbi.sbi and iciciredeemstore.in
+Domain Name Similarity:  18 %
+
+Comparing:  onlinesbi.sbi and indosbibk.in
+Domain Name Similarity:  22 %
+
+Comparing:  onlinesbi.sbi and isbiams.co.in
+Domain Name Similarity:  22 %
+
+Comparing:  onlinesbi.sbi and jiosmm.in
+Domain Name Similarity:  22 %
+
+Comparing:  onlinesbi.sbi and kalyanlaxmi.in
+Domain Name Similarity:  27 %
+
+Comparing:  onlinesbi.sbi and kayakvip.store
+Domain Name Similarity:  0 %
+
+Comparing:  onlinesbi.sbi and kayipark.info
+Domain Name Similarity:  11 %
+
+Comparing:  onlinesbi.sbi and mahindrahappinestkalyan-2.co.in
+Domain Name Similarity:  18 %
+
+Comparing:  onlinesbi.sbi and mithilafurniture.in
+Domain Name Similarity:  12 %
+
+Comparing:  onlinesbi.sbi and netinfosbi.co.in
+Domain Name Similarity:  41 %
+
+Comparing:  onlinesbi.sbi and officeipaspeedautologistic.company
+Domain Name Similarity:  19 %
+
+Comparing:  onlinesbi.sbi and onlineicici.in
+Domain Name Similarity:  63 %
+
+Comparing:  onlinesbi.sbi and onlinesbib.com
+Domain Name Similarity:  90 %
+
+Comparing:  onlinesbi.sbi and onuipark.com
+Domain Name Similarity:  33 %
+
+Comparing:  onlinesbi.sbi and parcels-id.tech
+Domain Name Similarity:  19 %
+
+Comparing:  onlinesbi.sbi and pawnbirdtoss.com
+Domain Name Similarity:  16 %
+
+Comparing:  onlinesbi.sbi and photogenicstudio.in
+Domain Name Similarity:  25 %
+
+Comparing:  onlinesbi.sbi and rajadhanicabs.in
+Domain Name Similarity:  15 %
+
+Comparing:  onlinesbi.sbi and rohilakachhar.mgmd.in
+Domain Name Similarity:  11 %
+
+Comparing:  onlinesbi.sbi and rohili.mgmd.in
+Domain Name Similarity:  19 %
+
+Comparing:  onlinesbi.sbi and rrbalp.in
+Domain Name Similarity:  0 %
+
+Comparing:  onlinesbi.sbi and sbibanke.co.in
+Domain Name Similarity:  9 %
+
+Comparing:  onlinesbi.sbi and sbibankyc.co.in
+Domain Name Similarity:  9 %
+
+Comparing:  onlinesbi.sbi and sbichairmansclub.com
+Domain Name Similarity:  12 %
+
+Comparing:  onlinesbi.sbi and sbihomeloanhlc.com
+Domain Name Similarity:  14 %
+
+Comparing:  onlinesbi.sbi and sbihworei.co.in
+Domain Name Similarity:  9 %
+
+Comparing:  onlinesbi.sbi and sbistatebank.com
+Domain Name Similarity:  8 %
+
+Comparing:  onlinesbi.sbi and sbiuptary.co.in
+Domain Name Similarity:  0 %
+
+Comparing:  onlinesbi.sbi and sbiwebanking.com
+Domain Name Similarity:  16 %
+
+Comparing:  onlinesbi.sbi and shishgrillboca.com
+Domain Name Similarity:  7 %
+
+Comparing:  onlinesbi.sbi and steelempire.in
+Domain Name Similarity:  18 %
+
+Comparing:  onlinesbi.sbi and tecshila.in
+Domain Name Similarity:  0 %
+
+Comparing:  onlinesbi.sbi and triveshsteel.in
+Domain Name Similarity:  16 %
+
+Comparing:  onlinesbi.sbi and updsbi.co.in
+Domain Name Similarity:  11 %
+
+Comparing:  onlinesbi.sbi and vipackdistribuidora.com
+Domain Name Similarity:  15 %
+
+Comparing:  onlinesbi.sbi and virtual-receptionist-29843.bond
+Domain Name Similarity:  15 %
+
+Comparing:  onlinesbi.sbi and crsargi.co.in
+Domain Name Similarity:  0 %
+
+Comparing:  onlinesbi.sbi and sbicard-cpp.in
+Domain Name Similarity:  0 %
+
+Comparing:  onlinesbi.sbi and ceatpl.in
+Domain Name Similarity:  0 %
+
+Comparing:  onlinesbi.sbi and instanthomecare.in
+Domain Name Similarity:  19 %
+
+Comparing:  onlinesbi.sbi and ceatpl.in
+Domain Name Similarity:  0 %
+
+Comparing:  onlinesbi.sbi and tasteofcoffee.in
+Domain Name Similarity:  0 %
+
+Comparing:  onlinesbi.sbi and arcollactin.in
+Domain Name Similarity:  9 %
+
+Comparing:  onlinesbi.sbi and waap.in
+Domain Name Similarity:  0 %
+
+Comparing:  onlinesbi.sbi and matchmyvibe.in
+Domain Name Similarity:  9 %
+
+Comparing:  onlinesbi.sbi and beinfratech.in
+Domain Name Similarity:  9 %
+
+Comparing:  onlinesbi.sbi and digitalindiagroup.in
+Domain Name Similarity:  17 %
+
+Comparing:  onlinesbi.sbi and doctorsnursinghome.in
+Domain Name Similarity:  22 %
+
+Comparing:  onlinesbi.sbi and doctorsmedicalcenter.in
+Domain Name Similarity:  15 %
+
+Comparing:  onlinesbi.sbi and databyte.in
+Domain Name Similarity:  0 %
+
+Comparing:  onlinesbi.sbi and imakeit.in
+Domain Name Similarity:  11 %
+
+Comparing:  onlinesbi.sbi and mywindowodisha.in
+Domain Name Similarity:  21 %
+
+Comparing:  onlinesbi.sbi and a2zprivatetheatre.in
+Domain Name Similarity:  11 %
+
+Comparing:  onlinesbi.sbi and bs2shop.in
+Domain Name Similarity:  0 %
+
+Comparing:  onlinesbi.sbi and beautypixcel.in
+Domain Name Similarity:  0 %
+
+Comparing:  onlinesbi.sbi and bs2shop2.in
+Domain Name Similarity:  0 %
+
+Comparing:  onlinesbi.sbi and hdfcbankldh.co.in
+Domain Name Similarity:  7 %
+
+Comparing:  onlinesbi.sbi and hdfclifehr.in
+Domain Name Similarity:  19 %
+
+Comparing:  onlinesbi.sbi and digital-lovedeep.in
+Domain Name Similarity:  12 %
+
+Comparing:  onlinesbi.sbi and divineskyedu.in
+Domain Name Similarity:  33 %
+
+
+	CHECKING URL SIMILARITY FOR icicicareers.com
+
+Comparing:  icicicareers.com and akhileshjha.co.in
+Domain Name Similarity:  7 %
+
+Comparing:  icicicareers.com and banksbi.in
+Domain Name Similarity:  8 %
+
+Comparing:  icicicareers.com and bapujifoods.in
+Domain Name Similarity:  8 %
+
+Comparing:  icicicareers.com and crsgoviit.online
+Domain Name Similarity:  8 %
+
+Comparing:  icicicareers.com and crsogi.com
+Domain Name Similarity:  16 %
+
+Comparing:  icicicareers.com and crsogovi.in
+Domain Name Similarity:  8 %
+
+Comparing:  icicicareers.com and crsorggove.online
+Domain Name Similarity:  8 %
+
+Comparing:  icicicareers.com and crsorggovt.co.in
+Domain Name Similarity:  0 %
+
+Comparing:  icicicareers.com and crsorgi-gov-in.5g.in
+Domain Name Similarity:  6 %
+
+Comparing:  icicicareers.com and crsorgi-gov.live
+Domain Name Similarity:  8 %
+
+Comparing:  icicicareers.com and crsorgigovein.website
+Domain Name Similarity:  7 %
+
+Comparing:  icicicareers.com and crsorgigovin.tech
+Domain Name Similarity:  0 %
+
+Comparing:  icicicareers.com and crsorgigroup.website
+Domain Name Similarity:  0 %
+
+Comparing:  icicicareers.com and crsorgisgovt.com
+Domain Name Similarity:  0 %
+
+Comparing:  icicicareers.com and crsoriggov.online
+Domain Name Similarity:  8 %
+
+Comparing:  icicicareers.com and crsosgigov.online
+Domain Name Similarity:  8 %
+
+Comparing:  icicicareers.com and debbrownauthor.com
+Domain Name Similarity:  7 %
+
+Comparing:  icicicareers.com and digital-finance.in
+Domain Name Similarity:  19 %
+
+Comparing:  icicicareers.com and dlzths.com
+Domain Name Similarity:  8 %
+
+Comparing:  icicicareers.com and earningshub.info
+Domain Name Similarity:  8 %
+
+Comparing:  icicicareers.com and gmcnandyalaap-govt.in
+Domain Name Similarity:  11 %
+
+Comparing:  icicicareers.com and greattajir.shop
+Domain Name Similarity:  16 %
+
+Comparing:  icicicareers.com and gummivet.com
+Domain Name Similarity:  16 %
+
+Comparing:  icicicareers.com and h26da513r.shop
+Domain Name Similarity:  16 %
+
+Comparing:  icicicareers.com and hdfcinvestors.com
+Domain Name Similarity:  30 %
+
+Comparing:  icicicareers.com and hdfcjob.co.in
+Domain Name Similarity:  8 %
+
+Comparing:  icicicareers.com and hdfcloan.online
+Domain Name Similarity:  16 %
+
+Comparing:  icicicareers.com and hdfcpoints.in
+Domain Name Similarity:  16 %
+
+Comparing:  icicicareers.com and hdfcpointss.in
+Domain Name Similarity:  16 %
+
+Comparing:  icicicareers.com and hdfcrewaad.in
+Domain Name Similarity:  16 %
+
+Comparing:  icicicareers.com and hdfcrewardss.in
+Domain Name Similarity:  25 %
+
+Comparing:  icicicareers.com and hdfcrewd.in
+Domain Name Similarity:  25 %
+
+Comparing:  icicicareers.com and hdfcrewds.in
+Domain Name Similarity:  33 %
+
+Comparing:  icicicareers.com and hdfcrewwaard.in
+Domain Name Similarity:  16 %
+
+Comparing:  icicicareers.com and hdfcrewwaards.in
+Domain Name Similarity:  23 %
+
+Comparing:  icicicareers.com and hrhdfc.in
+Domain Name Similarity:  8 %
+
+Comparing:  icicicareers.com and hrhdfcbank.in
+Domain Name Similarity:  8 %
+
+Comparing:  icicicareers.com and icicicards.com
+Domain Name Similarity:  75 %
+
+Comparing:  icicicareers.com and icicicorporatebankings.com
+Domain Name Similarity:  40 %
+
+Comparing:  icicicareers.com and iciciredeem.online
+Domain Name Similarity:  58 %
+
+Comparing:  icicicareers.com and iciciredeemstore.in
+Domain Name Similarity:  50 %
+
+Comparing:  icicicareers.com and indosbibk.in
+Domain Name Similarity:  8 %
+
+Comparing:  icicicareers.com and isbiams.co.in
+Domain Name Similarity:  25 %
+
+Comparing:  icicicareers.com and jiosmm.in
+Domain Name Similarity:  8 %
+
+Comparing:  icicicareers.com and kalyanlaxmi.in
+Domain Name Similarity:  0 %
+
+Comparing:  icicicareers.com and kayakvip.store
+Domain Name Similarity:  8 %
+
+Comparing:  icicicareers.com and kayipark.info
+Domain Name Similarity:  25 %
+
+Comparing:  icicicareers.com and mahindrahappinestkalyan-2.co.in
+Domain Name Similarity:  11 %
+
+Comparing:  icicicareers.com and mithilafurniture.in
+Domain Name Similarity:  25 %
+
+Comparing:  icicicareers.com and netinfosbi.co.in
+Domain Name Similarity:  0 %
+
+Comparing:  icicicareers.com and officeipaspeedautologistic.company
+Domain Name Similarity:  26 %
+
+Comparing:  icicicareers.com and onlineicici.in
+Domain Name Similarity:  8 %
+
+Comparing:  icicicareers.com and onlinesbib.com
+Domain Name Similarity:  8 %
+
+Comparing:  icicicareers.com and onuipark.com
+Domain Name Similarity:  25 %
+
+Comparing:  icicicareers.com and parcels-id.tech
+Domain Name Similarity:  8 %
+
+Comparing:  icicicareers.com and pawnbirdtoss.com
+Domain Name Similarity:  8 %
+
+Comparing:  icicicareers.com and photogenicstudio.in
+Domain Name Similarity:  12 %
+
+Comparing:  icicicareers.com and rajadhanicabs.in
+Domain Name Similarity:  15 %
+
+Comparing:  icicicareers.com and rohilakachhar.mgmd.in
+Domain Name Similarity:  23 %
+
+Comparing:  icicicareers.com and rohili.mgmd.in
+Domain Name Similarity:  8 %
+
+Comparing:  icicicareers.com and rrbalp.in
+Domain Name Similarity:  8 %
+
+Comparing:  icicicareers.com and sbibanke.co.in
+Domain Name Similarity:  25 %
+
+Comparing:  icicicareers.com and sbibankyc.co.in
+Domain Name Similarity:  8 %
+
+Comparing:  icicicareers.com and sbichairmansclub.com
+Domain Name Similarity:  25 %
+
+Comparing:  icicicareers.com and sbihomeloanhlc.com
+Domain Name Similarity:  7 %
+
+Comparing:  icicicareers.com and sbihworei.co.in
+Domain Name Similarity:  25 %
+
+Comparing:  icicicareers.com and sbistatebank.com
+Domain Name Similarity:  16 %
+
+Comparing:  icicicareers.com and sbiuptary.co.in
+Domain Name Similarity:  25 %
+
+Comparing:  icicicareers.com and sbiwebanking.com
+Domain Name Similarity:  16 %
+
+Comparing:  icicicareers.com and shishgrillboca.com
+Domain Name Similarity:  7 %
+
+Comparing:  icicicareers.com and steelempire.in
+Domain Name Similarity:  8 %
+
+Comparing:  icicicareers.com and tecshila.in
+Domain Name Similarity:  16 %
+
+Comparing:  icicicareers.com and triveshsteel.in
+Domain Name Similarity:  16 %
+
+Comparing:  icicicareers.com and updsbi.co.in
+Domain Name Similarity:  8 %
+
+Comparing:  icicicareers.com and vipackdistribuidora.com
+Domain Name Similarity:  26 %
+
+Comparing:  icicicareers.com and virtual-receptionist-29843.bond
+Domain Name Similarity:  19 %
+
+Comparing:  icicicareers.com and crsargi.co.in
+Domain Name Similarity:  25 %
+
+Comparing:  icicicareers.com and sbicard-cpp.in
+Domain Name Similarity:  25 %
+
+Comparing:  icicicareers.com and ceatpl.in
+Domain Name Similarity:  16 %
+
+Comparing:  icicicareers.com and instanthomecare.in
+Domain Name Similarity:  19 %
+
+Comparing:  icicicareers.com and ceatpl.in
+Domain Name Similarity:  16 %
+
+Comparing:  icicicareers.com and tasteofcoffee.in
+Domain Name Similarity:  7 %
+
+Comparing:  icicicareers.com and arcollactin.in
+Domain Name Similarity:  8 %
+
+Comparing:  icicicareers.com and waap.in
+Domain Name Similarity:  8 %
+
+Comparing:  icicicareers.com and matchmyvibe.in
+Domain Name Similarity:  8 %
+
+Comparing:  icicicareers.com and beinfratech.in
+Domain Name Similarity:  25 %
+
+Comparing:  icicicareers.com and digitalindiagroup.in
+Domain Name Similarity:  23 %
+
+Comparing:  icicicareers.com and doctorsnursinghome.in
+Domain Name Similarity:  11 %
+
+Comparing:  icicicareers.com and doctorsmedicalcenter.in
+Domain Name Similarity:  30 %
+
+Comparing:  icicicareers.com and databyte.in
+Domain Name Similarity:  8 %
+
+Comparing:  icicicareers.com and imakeit.in
+Domain Name Similarity:  25 %
+
+Comparing:  icicicareers.com and mywindowodisha.in
+Domain Name Similarity:  7 %
+
+Comparing:  icicicareers.com and a2zprivatetheatre.in
+Domain Name Similarity:  29 %
+
+Comparing:  icicicareers.com and bs2shop.in
+Domain Name Similarity:  0 %
+
+Comparing:  icicicareers.com and beautypixcel.in
+Domain Name Similarity:  0 %
+
+Comparing:  icicicareers.com and bs2shop2.in
+Domain Name Similarity:  0 %
+
+Comparing:  icicicareers.com and hdfcbankldh.co.in
+Domain Name Similarity:  7 %
+
+Comparing:  icicicareers.com and hdfclifehr.in
+Domain Name Similarity:  25 %
+
+Comparing:  icicicareers.com and digital-lovedeep.in
+Domain Name Similarity:  25 %
+
+Comparing:  icicicareers.com and divineskyedu.in
+Domain Name Similarity:  16 %
+
+
+1. URL Similarity Analysis
+2. Visual Similarity Analysis
+3. Favicon Similarity Analysis
+4. Exit
+
+Enter Choice: 

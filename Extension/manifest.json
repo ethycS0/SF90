@@ -1,0 +1,37 @@
+{
+  "manifest_version": 2,
+  "name": "SF90",
+  "version": "1.0",
+  "description": "",
+  
+  
+  "permissions": [
+    "tabs",
+    "activeTab",
+    "webRequest", 
+    "<all_urls>", 
+    "webRequestBlocking", 
+    "storage",
+    "notifications"
+  ],
+  
+  "background": {
+    "scripts": ["mainURL.js"],
+    "persistent": true
+  },
+  
+  "browser_action": {
+    "default_popup": "main.html",
+    "default_icon": {
+      "48": "icon.png"
+    }
+  },
+  
+  "content_scripts": [
+    {
+      "matches": ["<all_urls>"],
+      "js": ["content.js"]
+    }
+  ]
+}
+
