@@ -22,7 +22,7 @@ This toolkit is designed to help users detect phishing attempts by comparing web
     - It passively monitors the websites visited by the user and sends this information to the server running the Python application.
     - Based on the analysis results from the server-side application, the extension displays whether a visited website is legitimate or potentially a phishing attempt.
 
-## Built by Team SF90 for Smart India Hackathon 2023 (Made By Arjun Salunkhe)
+## Built by Team SF90 for Smart India Hackathon 2023
 
 ## Installation and Usage
 
